@@ -2,7 +2,7 @@ package code;
 
 /*
  * ASSIGNMENT 2
- * AUTHOR:  <Insert Student Name>
+ * AUTHOR: HASAN CAN ASLAN
  * Class : LLDeque
  *
  * You are not allowed to use Java containers!
@@ -24,7 +24,7 @@ public class LLDeque<E> implements iDeque<E> {
     //Use sentinel nodes. See slides if needed
     private Node<E> header;
     private Node<E> trailer;
-    private int size = 0;
+    private int size;
 
     public LLDeque() {
 
@@ -32,6 +32,7 @@ public class LLDeque<E> implements iDeque<E> {
         header = new Node<E>(null, null, header);
         trailer = new Node<E>(null, trailer, header);
         header.next = trailer;
+        size = 0;
     }
 
     public String toString() {

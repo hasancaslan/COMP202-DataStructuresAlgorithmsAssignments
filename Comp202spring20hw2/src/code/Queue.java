@@ -5,7 +5,7 @@ import given.iDeque;
 
 /* 
  * ASSIGNMENT 2
- * AUTHOR:  <Insert Student Name>
+ * AUTHOR: HASAN CAN ASLAN
  * Class : Queue
  *
  * MODIFY 
@@ -22,66 +22,29 @@ public class Queue<C extends iDeque<E>, E> implements iSimpleContainer <E> {
   //C is generic. It indicates the type of the deque to store the elements
   //E is generic. It indicates the type of data to be stored in the deque
 
-
   C deque;
   
-  public Queue(C inDeque){
-    deque = inDeque;
-    /*
-     * ADD CODE IF NEEDED
-     * 
-     */
-  }
+  public Queue(C inDeque){ deque = inDeque; }
   
   public String toString() {
     return deque.toString();
   }
   
-  
-  /*
-   * ADD FIELDS AND METHODS IF NEEDED
-   * 
-   */
-  
-  /*
-   * Below are the interface methods to be overriden
-   */
-  
   @Override
-  public void push(E obj) {
-    // TODO Auto-generated method stub
-    Util.NotImplementedYetSoft();
-  }
+  public void push(E obj) { deque.addBehind(obj); }
 
   @Override
-  public E pop() {
-    // TODO Auto-generated method stub
-    Util.NotImplementedYetSoft();
-    return null;
-  }
+  public E pop() { return deque.removeFront(); }
 
   @Override
-  public E peek() {
-    // TODO Auto-generated method stub
-    Util.NotImplementedYetSoft();
-    return null;
-  }
+  public E peek() { return deque.front(); }
 
   @Override
-  public int size() {
-    // TODO Auto-generated method stub
-    return 0;
-  }
+  public int size() { return deque.size(); }
 
   @Override
-  public boolean isEmpty() {
-    // TODO Auto-generated method stub
-    return false;
-  }
+  public boolean isEmpty() { return deque.isEmpty(); }
 
   @Override
-  public void clear() {
-    // TODO Auto-generated method stub
-    
-  }
+  public void clear() { deque.clear(); }
 }

@@ -2,7 +2,7 @@ package code;
 
 /*
  * ASSIGNMENT 2
- * AUTHOR:  HASAN CAN ASLAN
+ * AUTHOR: HASAN CAN ASLAN
  * Class : ArrayDeque
  *
  * You are not allowed to use Java containers!
@@ -70,10 +70,12 @@ public class ArrayDeque<E> implements iDeque<E> {
         return sb.toString();
     }
 
-    private void resize() {
+    private void resizeStorage() {
         E[] newArray = createNewArrayWithSize(size * 2);
-        for (int i = 0; i < size; i++) {
-            newArray[i] = A[i];
+        int i, j;
+        for (i = 0; i < A.length - 1; i++) {
+            j = (front + i) % A.length;
+            newArray[i] = A[j];
         }
         A = newArray;
     }
@@ -91,7 +93,7 @@ public class ArrayDeque<E> implements iDeque<E> {
     @Override
     public void addFront(E o) {
         if (size == A.length)
-            resize();
+            resizeStorage();
 
         front = (front + A.length - 1) % A.length;
         A[front] = o;
@@ -121,7 +123,7 @@ public class ArrayDeque<E> implements iDeque<E> {
     @Override
     public void addBehind(E o) {
         if (size == A.length)
-            resize();
+            resizeStorage();
 
         A[behind] = o;
         behind = (behind + 1) % A.length;

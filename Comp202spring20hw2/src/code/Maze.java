@@ -11,7 +11,7 @@ import given.iSimpleContainer;
 /* * 
  * 
  * ASSIGNMENT 2-Part2
- * STUDENT AUTHOR:  <Insert Student Name>
+ * STUDENT AUTHOR: HASAN CAN ASLAN
  *
  * MODIFY 
  * 
@@ -29,10 +29,6 @@ public class Maze {
   char[][] currentMaze;
   int rows;
   int cols;
-
-  /*
-   * ADD FIELDS IF NEEDED
-   */
 
   public Maze() {
     /*

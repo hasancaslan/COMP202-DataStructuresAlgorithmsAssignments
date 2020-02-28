@@ -5,7 +5,7 @@ import given.iSimpleContainer;
 
 /*
  * ASSIGNMENT 2
- * AUTHOR:  <Insert Student Name>
+ * AUTHOR: HASAN CAN ASLAN
  * Class : Stack
  *
  * MODIFY
@@ -31,20 +31,10 @@ public class Stack<C extends iDeque<E>, E> implements iSimpleContainer<E> {
     public void push(E obj) { deque.addBehind(obj); }
 
     @Override
-    public E pop() {
-        if (isEmpty())
-            return null;
-
-        return deque.removeBehind();
-    }
+    public E pop() {return deque.removeBehind(); }
 
     @Override
-    public E peek() {
-        if (isEmpty())
-            return null;
-
-        return deque.behind();
-    }
+    public E peek() { return deque.behind(); }
 
     @Override
     public int size() { return deque.size(); }
