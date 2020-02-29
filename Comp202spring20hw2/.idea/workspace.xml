@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="717231c0-3ee7-42dd-852f-7e7458fc2be4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/code/Maze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/Maze.java" afterDir="false" />
-    </list>
+    <list default="true" id="717231c0-3ee7-42dd-852f-7e7458fc2be4" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/src/code/Maze.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1121">
-              <caret line="126" column="13" lean-forward="true" selection-start-line="126" selection-start-column="13" selection-end-line="126" selection-end-column="13" />
+              <caret line="126" column="13" selection-start-line="126" selection-start-column="13" selection-end-line="126" selection-end-column="13" />
               <folding>
                 <element signature="e#4239#4240#0" expanded="true" />
                 <element signature="e#4625#4626#0" expanded="true" />
@@ -124,8 +120,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="16" />
-    <option name="y" value="117" />
+    <option name="x" value="18" />
+    <option name="y" value="76" />
     <option name="width" value="1920" />
     <option name="height" value="1057" />
   </component>
@@ -143,32 +139,6 @@
             <path>
               <item name="Comp202spring20hw2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Comp202spring20hw2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Comp202spring20hw2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Comp202spring20hw2" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Comp202spring20hw2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Comp202spring20hw2" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Comp202spring20hw2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Comp202spring20hw2" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="Comp202spring20hw2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Comp202spring20hw2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Comp202spring20hw2" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="Comp202spring20hw2" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Comp202spring20hw2" type="b2602c69:ProjectViewProjectNode" />
@@ -251,15 +221,15 @@
       <updated>1582850395674</updated>
       <workItem from="1582850398799" duration="5402000" />
       <workItem from="1582908545721" duration="3594000" />
-      <workItem from="1583016428987" duration="3611000" />
+      <workItem from="1583016428987" duration="3947000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12607000" />
+    <option name="totallyTimeSpent" value="12943000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="958" height="1080" extended-state="6" />
+    <frame x="16" y="117" width="1920" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
@@ -272,7 +242,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2957601" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31019524" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991727" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -382,7 +352,7 @@
     <entry file="file://$PROJECT_DIR$/src/code/Maze.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1121">
-          <caret line="126" column="13" lean-forward="true" selection-start-line="126" selection-start-column="13" selection-end-line="126" selection-end-column="13" />
+          <caret line="126" column="13" selection-start-line="126" selection-start-column="13" selection-end-line="126" selection-end-column="13" />
           <folding>
             <element signature="e#4239#4240#0" expanded="true" />
             <element signature="e#4625#4626#0" expanded="true" />
