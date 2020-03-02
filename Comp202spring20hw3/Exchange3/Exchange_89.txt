@@ -1,0 +1,8 @@
+RizaArda Buy 17
+AhmetErdem Sell 15
+IsmetErdem Sell 27
+Ali Sell 26
+IsmetErdem Remove Sell 27
+BerrinNaz Sell 14
+Berkan Buy 44
+AhmetMurat Sell 20

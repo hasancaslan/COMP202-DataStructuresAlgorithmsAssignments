@@ -1,0 +1,10 @@
+EgeBerk Buy 4
+Zahit Sell 43
+Gokberk Buy 29
+Mertkan Buy 100
+MertCan Buy 90
+IbrahimEthem Sell 17
+Nevzat Buy 11
+OzgurTaylan Sell 23
+Ceren Change Buy 49
+Ali Remove Sell 94

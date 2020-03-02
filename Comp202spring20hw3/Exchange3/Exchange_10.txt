@@ -1,0 +1,8 @@
+Emir Buy 42
+Berke Change Sell 13
+BerkeLevent Buy 40
+Berkan Change Buy 19
+BerrinNaz Remove Sell 46
+Ali Remove Sell 37
+MustafaBurak Buy 25
+TuanBerk Sell 14

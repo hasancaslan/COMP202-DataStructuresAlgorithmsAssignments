@@ -1,0 +1,6 @@
+Ali Remove Sell 41
+OzgurTaylan Sell 30
+OzgurTaylan Remove Sell 30
+Gokalp Buy 10
+Arda Change Sell 16
+AhmetMurat Sell 50

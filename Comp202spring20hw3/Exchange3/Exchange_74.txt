@@ -1,0 +1,14 @@
+Alpay Buy 42
+Ekin Sell 27
+OzgurTaylan Change Sell 26
+Muhammet Sell 40
+Eda Sell 30
+MertCan Buy 19
+Hamza Remove Sell 36
+Ekin Change Sell 28
+Huseyin Remove Sell 24
+KadriMert Buy 43
+Dilara Sell 42
+IlkerKadir Remove Sell 23
+MustafaBurak Buy 12
+MehmetCan Change Sell 27

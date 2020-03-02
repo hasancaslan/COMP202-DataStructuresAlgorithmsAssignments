@@ -1,0 +1,12 @@
+Cisem Buy 33
+MertCan Buy 7
+CansuDamla Change Sell 10
+MehmetEmre Sell 90
+YunusEmre Remove Sell 78
+MehmetCan Remove Sell 57
+Oguzhan Sell 64
+IlkerKadir Sell 22
+ElburzDavid Change Buy 19
+IbrahimEthem Remove Sell 71
+AlperTolga Buy 50
+AhmetMurat Remove Sell 97

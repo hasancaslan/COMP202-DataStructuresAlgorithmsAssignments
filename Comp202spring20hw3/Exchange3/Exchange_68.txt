@@ -1,0 +1,4 @@
+YunusEmre Sell 16
+RizaArda Buy 16
+BarisCan Change Buy 42
+Mert Change Sell 11

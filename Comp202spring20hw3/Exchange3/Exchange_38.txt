@@ -1,0 +1,9 @@
+Ceren Buy 25
+Gokberk Buy 46
+AhmetResat Sell 19
+Dilara Change Sell 35
+Berkan Buy 20
+Murat Buy 26
+Ozge Sell 27
+IsmetErdem Change Sell 37
+MehmetEmre Remove Sell 28

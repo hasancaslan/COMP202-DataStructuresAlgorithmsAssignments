@@ -1,0 +1,11 @@
+BarisCan Buy 78
+Atahan Sell 96
+Cem Buy 13
+Ali Sell 99
+Cisem Buy 51
+Ozge Change Sell 76
+Arda Change Sell 13
+AhmetMurat Sell 1
+Baris Buy 73
+Eren Change Sell 83
+Ceren Buy 35

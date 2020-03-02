@@ -1,0 +1,12 @@
+UmurBurhan Buy 11
+YunusEmre Sell 16
+Kivanc Change Sell 48
+MustafaBurak Buy 44
+Oguzhan Sell 10
+IlaydaEzgi Sell 39
+TuanBerk Sell 12
+Can Remove Sell 42
+Gokalp Buy 30
+YoelBaris Change Sell 31
+Ege Buy 37
+YoelBaris Remove Sell 31

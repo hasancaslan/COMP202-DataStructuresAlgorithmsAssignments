@@ -1,0 +1,18 @@
+Cisem Change Buy 41
+MehmetEmre Remove Sell 31
+Ekin Change Sell 29
+Ekin Remove Sell 29
+MehmetEmre Sell 22
+Irem Buy 10
+Asli Remove Sell 34
+Atahan Sell 16
+Yigit Remove Sell 23
+Side Buy 45
+OzgurTaylan Remove Sell 18
+Oguzhan Sell 39
+MehmetSamed Sell 15
+AhmetBurak Sell 11
+AhmetMurat Sell 18
+Ozge Change Sell 49
+Eren Change Sell 17
+AhmetMurat Remove Sell 18

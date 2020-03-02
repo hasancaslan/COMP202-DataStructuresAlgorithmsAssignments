@@ -1,0 +1,16 @@
+IsmetErdem Sell 21
+Berke Remove Sell 31
+IbrahimEthem Sell 44
+Alkin Buy 23
+Alkin Change Buy 12
+AhmetErdem Sell 26
+Kivanc Change Sell 38
+Ekin Sell 16
+EsatTunahan Sell 36
+KadriMert Buy 26
+MehmetEmre Sell 28
+Cansin Buy 22
+Muhammet Remove Sell 37
+Burak Change Sell 12
+EnginDeniz Buy 19
+Dilara Sell 49

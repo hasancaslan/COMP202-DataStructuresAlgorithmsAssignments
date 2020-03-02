@@ -1,0 +1,9 @@
+ElburzDavid Buy 24
+Zahit Sell 78
+MehmetSamed Change Sell 43
+Eda Remove Sell 77
+Kivanc Sell 52
+Cisem Buy 61
+Hamza Sell 31
+OzgurTaylan Sell 100
+Aykut Change Sell 86

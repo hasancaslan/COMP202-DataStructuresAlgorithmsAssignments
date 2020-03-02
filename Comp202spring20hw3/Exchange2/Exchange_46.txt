@@ -1,0 +1,9 @@
+Irem Buy 65
+AhmetBurak Sell 23
+Gokalp Change Buy 1
+Ege Buy 8
+Mertkan Buy 67
+MehmetSamed Sell 22
+Mustafa Sell 97
+Aykut Change Sell 48
+IbrahimEthem Change Sell 26

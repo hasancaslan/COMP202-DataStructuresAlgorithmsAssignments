@@ -1,0 +1,13 @@
+AlperTolga Buy 80
+Berrak Buy 58
+Huseyin Sell 60
+ElburzDavid Buy 51
+Nevzat Buy 63
+Gokberk Buy 95
+CansuDamla Change Sell 29
+Hamza Sell 20
+CanTaylan Sell 9
+OzgurTaylan Change Sell 98
+IsmetErdem Change Sell 24
+NaimBerk Buy 62
+AhmetResat Sell 23

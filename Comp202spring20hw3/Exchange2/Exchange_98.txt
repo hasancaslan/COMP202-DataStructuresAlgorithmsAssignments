@@ -1,0 +1,13 @@
+IbrahimDurul Buy 30
+AhmetErdem Change Sell 42
+MehmetSamed Sell 97
+AhmetBurak Change Sell 92
+Alper Change Sell 32
+IsmetErdem Sell 72
+BerrinNaz Change Sell 11
+Berkan Buy 86
+AhmetMurat Sell 25
+Oguzhan Sell 18
+Ali Sell 45
+NaimBerk Buy 87
+MehmetCan Sell 6

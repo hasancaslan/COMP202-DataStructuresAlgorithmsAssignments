@@ -1,0 +1,14 @@
+Tayis Sell 17
+Hazal Buy 11
+Huseyin Remove Sell 42
+Ali Sell 16
+Emir Buy 39
+Ege Buy 40
+EsatTunahan Sell 12
+UmurBurhan Buy 42
+Muhammet Sell 10
+Nevzat Buy 18
+Mert Sell 42
+Irmak Change Buy 24
+RizaArda Buy 43
+CanTaylan Sell 31

@@ -1,0 +1,4 @@
+Ahmet Sell 12
+Mehmet Buy 3
+Berk Sell 13
+Can Buy 6

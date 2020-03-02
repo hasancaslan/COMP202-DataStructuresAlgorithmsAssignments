@@ -1,0 +1,754 @@
+Delete name Gokalp Ones 
+Insert Arjinrenas Arslanturk 5111236756 aarslanturk18@ku.edu.tr 
+GetName 3458756051 
+Update address Enes Ozakar 2108 Zachary River East Brandonchester, ME 06708 
+Delete name Deniz Yilmaz 
+Insert Umaybengisu Bozkurt 3858217537 
+Update email Fuatcem Ersu fersu87@ku.edu.tr 
+Insert Enes Ozakar 7043462115 eozakar20@ku.edu.tr 
+Update email Mustafaumut Tatlidede mtatlidede79@ku.edu.tr 
+Insert Bulut Gursoy 4185463809 
+Insert Ege Demir 5822706560 
+GetName 7589319391 
+Delete number 5154145453 
+Delete number 8368948926 
+Insert Kadir Masry 2948370747 kmasry29@ku.edu.tr 
+Insert Burak Yucetin 9212764053 byucetin59@ku.edu.tr 
+Insert Kaan Hokelek 2805974595 
+Delete name Cemege Kaytaz 
+Insert Pelin Hopali 3458756051 phopali89@ku.edu.tr 352 Garcia Fall Suite 343 South Anthonyside, CT 11007 
+Delete number 0125624612 
+DisplayInfo email byucetin59@ku.edu.tr 
+Update email Enesfaruk Cubuk ecubuk26@ku.edu.tr 
+GetNumber Doruk Balim 
+Delete name Cem Demirci 
+Insert Egemelis Demirci 9998993257 edemirci88@ku.edu.tr 
+DisplayInfo number 2975667025 
+GetNumber Melih Atisay 
+Delete name Umut Deveci 
+Delete name Aydinberk Ozdemir 
+DisplayInfo email byucetin59@ku.edu.tr 
+Insert Pelin Bastug 8320736986 pbastug27@ku.edu.tr 753 Meyer Trace Elizabethfort, MI 97855-2429 
+Delete name Ege Durak 
+Insert Haticeirem Gizer 5621177671 
+Insert Osman Zorlu 3456576933 
+Delete name Ahmet Saygili 
+Update address Tumay Hopali 894 Shepard Green Michaelfurt, NV 56092-2237 
+Insert Ergiz Kucukpehlivan 7962608353 
+Delete number 6686729800 
+Insert Aydinberk Luleci 2503255121 aluleci22@ku.edu.tr 062 White Summit Suite 619 West Crystalville, AZ 28781-5773 
+Delete number 5865301621 
+Delete name Kaan Toker 
+DisplayInfo name Tanil Filiz 
+Delete number 1706164311 
+Delete name Ihsan Oguz 
+Update email Esin Ozsuer eozsuer51@ku.edu.tr 
+Delete number 2610087214 
+Insert Haticeirem Okatan 6173707355 hokatan48@ku.edu.tr 27055 Villarreal Radial Apt. 487 East David, SC 38647-4589 
+GetName 7119893673 
+Delete name Osman Yakal 
+Insert Mehmetumut Orhan 6076177898 morhan46@ku.edu.tr 
+Delete name Fuatcem Guncer 
+Delete number 5304221463 
+Update address Ozden Boran USCGC Smith FPO AP 49685-8132 
+Update address Osman Zorlu 246 Carroll Fields Griffinfurt, NM 62248 
+Insert Yunus Sardag 6529523365 
+Update address Yunus Guler 82863 Tanya Hollow West Rebecca, MH 13966-1386 
+Insert Ceren Ozkan 2041775821 cozkan67@ku.edu.tr 7667 Jonathon Summit Perezberg, MH 78528 
+Delete number 0846503404 
+Update email Mehmetumut Orhan morhan35@ku.edu.tr 
+Insert Atahan Gulce 6017526292 agulce66@ku.edu.tr 
+DisplayInfo email mtatlidede79@ku.edu.tr 
+Update address Alihan Ozkan 818 Isaac Highway Hannahfurt, AZ 25294-7547 
+Delete name Baris Uslu 
+Insert Taluhan Budak 5596752353 
+DisplayInfo email aluleci22@ku.edu.tr 
+GetName 6337223783 
+Insert Ali Balci 3010725411 abalci66@ku.edu.tr 924 Levy Forge South Laurie, GU 21743-3529 
+Insert Okan Masry 8523976935 
+Update address Enes Ozakar 02605 Sherry Mall Bellville, CO 32693-8378 
+Delete number 4588978912 
+Insert Elhan Gizer 7839005907 egizer41@ku.edu.tr 883 Sonya Viaduct Suite 934 New Austinville, NV 80026-1168 
+Delete name Haticeirem Gizer 
+Update email Dogacan Cubuk dcubuk87@ku.edu.tr 
+Insert Gokalp Sahbaz 5793452998 gsahbaz24@ku.edu.tr 
+DisplayInfo email phopali89@ku.edu.tr 
+Update address Hazal Bulgu 08787 Willis Islands Apt. 255 South Kenneth, CO 93068 
+Insert Okan Masry 8523976935 omasry62@ku.edu.tr 
+Insert Egeonat Aydin 5993772136 
+Delete name Ceren Ozkan 
+Insert Melike Kutludag 4904017381 mkutludag90@ku.edu.tr 5950 Garcia Stream Suite 832 West Katelyn, AS 14057-1620 
+Delete name Harun Taneli 
+Insert Serkan Gulce 1450025561 
+DisplayInfo number 6177857538 
+GetNumber Melike Bekci 
+Delete name Gokalp Yardimci 
+Insert Canberk Barlas 8768496868 cbarlas67@ku.edu.tr 
+Delete name Tanil Ozkan 
+Update email Bartu Yardimci byardimci92@ku.edu.tr 
+DisplayInfo name Muhammedtalha Korkmaz 
+Delete name Tumay Ersu 
+Insert Arunekin Avci 2036387685 aavci68@ku.edu.tr 
+Update address Egeonat Aydin 2575 Hale Terrace Apt. 487 North Teresaville, AR 93054-6979 
+Insert Burak Yucetin 9212764053 
+Delete number 8897474779 
+Delete number 0272905779 
+Delete number 2076863689 
+DisplayInfo email hokatan48@ku.edu.tr 
+Update address Adnanege Sasmaz 449 Davis Pass Apt. 137 Port Sophiabury, RI 98549-1357 
+DisplayInfo name Mustafaumut Gizer 
+Delete number 6548120220 
+Delete name Emre Yilmaz 
+Update address Mustafaumut Tatlidede 973 Harry Loop Suite 482 New Davidport, AR 13386 
+Insert Ozgur Gokcek 6772899124 ogokcek50@ku.edu.tr 
+Delete number 7917721181 
+GetNumber Tayis Toygar 
+Insert Emir Yilmaz 8242458710 
+GetNumber Haticeirem Gunay 
+Delete name Yunus Sardag 
+Delete name Kadri Ozdemir 
+Update email Tanil Masry tmasry71@ku.edu.tr 
+Delete name Hazal Alioglu 
+Insert Mehmetumut Kaygusuz 5235914340 mkaygusuz95@ku.edu.tr 926 James Gardens Suite 338 Turnerton, MD 61812 
+Insert Egemelis Yakal 5504437174 eyakal38@ku.edu.tr 73834 Brooks Path Suite 661 West Bradley, WA 88162 
+DisplayInfo name Ozden Basar 
+Update email Egeonat Aydin eaydin90@ku.edu.tr 
+Insert Aydinberk Kosar 5906910797 
+Insert Kaan Yavuz 2928561287 
+Insert Egeonat Bekci 0324169800 ebekci29@ku.edu.tr 79010 Elliott Rapid Apt. 063 Hallmouth, KS 82780-6293 
+Insert Aydinberk Guncer 5939823253 aguncer55@ku.edu.tr 2450 Thomas River South Yolanda, IN 22005-5086 
+Update email Ege Tiryakioglu etiryakioglu99@ku.edu.tr 
+Insert Haticeirem Okatan 9315302596 hokatan80@ku.edu.tr 5716 Collins Walk Apt. 317 North Aliciastad, FL 51112 
+Delete number 2792446662 
+Delete number 3876966027 
+Insert Atahan Cubuk 1844851228 acubuk98@ku.edu.tr 6717 Allison Grove Bensonshire, MN 21117-9044 
+DisplayInfo name Bulut Gursoy 
+Update address Tanil Masry 96973 Aguilar Loop Port Amanda, VA 57863-7433 
+DisplayInfo email aguncer55@ku.edu.tr 
+Insert Melike Toygar 5235990342 
+Insert Kaan Yavuz 1356336942 kyavuz97@ku.edu.tr 
+Delete name Alihan Kaygusuz 
+Delete number 1228920686 
+Delete name Cuneytemre Guncer 
+Insert Alpadnan Ozyazici 3665765533 aozyazici24@ku.edu.tr 29917 Mckay Forges South Daniellemouth, NM 71011-2358 
+DisplayInfo name Alpadnan Ekmekci 
+Insert Arjinrenas Tatlidede 4583837475 atatlidede82@ku.edu.tr 
+Delete name Yunus Guler 
+DisplayInfo name Enes Balci 
+Delete number 7962608353 
+Insert Kaan Yavuz 1356336942 
+DisplayInfo name Ismeterdem Ayanoglu 
+GetNumber Egeonat Cona 
+Delete number 5235914340 
+GetName 0025413696 
+Update address Berkay Karasozen 54852 Flores Course Davidport, PW 71824-5734 
+DisplayInfo name Ege Yazici 
+Update email Okan Tekalp otekalp84@ku.edu.tr 
+Delete name Ihsan Ozakar 
+DisplayInfo email eozsuer51@ku.edu.tr 
+DisplayInfo number 3010725411 
+GetName 6772899124 
+Insert Gokalp Barlas 2984726944 gbarlas46@ku.edu.tr 
+Update address Ege Demir 209 Stone Station Toddton, WA 23191 
+Insert Berkay Avci 7982865161 bavci28@ku.edu.tr 
+Delete name Ismeterdem Basar 
+Delete name Dogacan Oruc 
+GetNumber Cemege Kaygusuz 
+DisplayInfo name Alpadnan Aslan 
+Insert Osman Konrat 0271152481 okonrat94@ku.edu.tr 
+DisplayInfo number 2036387685 
+Update email Merve Islakoglu mislakoglu35@ku.edu.tr 
+Update email Melike Kutludag mkutludag19@ku.edu.tr 
+Insert Bulut Demir 0464847804 bdemir75@ku.edu.tr 215 Bethany Lights Apt. 745 Shawnborough, PA 56080-9944 
+Delete number 6480137542 
+Insert Kazim Uysal 8935509330 kuysal19@ku.edu.tr USCGC Parsons FPO AA 50904-5003 
+GetNumber Ismeterdem Ayanoglu 
+GetNumber Sitare Akbas 
+GetNumber Muhammedtalha Korkmaz 
+DisplayInfo number 9200832176 
+Insert Ozgur Gokcek 6772899124 ogokcek94@ku.edu.tr 
+Delete number 7643622339 
+Delete name Emir Yakal 
+Insert Cem Akbas 9510772255 cakbas57@ku.edu.tr 
+GetNumber Ege Demir 
+GetNumber Gokalp Barlas 
+GetName 8897827538 
+DisplayInfo email edemirci88@ku.edu.tr 
+Insert Fuatcem Kavcioglu 6682071293 fkavcioglu42@ku.edu.tr 13532 Johnson Rapids Suite 350 West Josebury, CA 78681 
+Delete number 2805974595 
+Update email Enesfaruk Gunay egunay58@ku.edu.tr 
+Update email Ahmed Kaygusuz akaygusuz89@ku.edu.tr 
+Update address Ege Alioglu 5648 Romero Wells Suite 025 Helenstad, NY 82829 
+Insert Arunekin Luleci 6719361190 aluleci93@ku.edu.tr 35583 Jonathan Squares Port Patrickstad, OH 13759 
+DisplayInfo number 8871198336 
+Delete name Orcun Aydin 
+Insert Berk Ozsuer 0172763912 bozsuer62@ku.edu.tr 71078 Ingram Shores Suite 344 North Brianmouth, CO 65668-8316 
+Update address Burakcem Ozkan 628 Frederick Isle New Bill, GA 43484-4348 
+Delete number 5111236756 
+Update email Esin Ozsuer eozsuer37@ku.edu.tr 
+Delete number 1844851228 
+Delete name Enesfaruk Menguaslan 
+DisplayInfo email otekalp84@ku.edu.tr 
+Update email Bulut Gursoy bgursoy52@ku.edu.tr 
+Update email Berkay Karasozen bkarasozen87@ku.edu.tr 
+Delete name Engindeniz Islakoglu 
+Delete name Ali Aydin 
+Delete number 4224064754 
+Insert Ismeterdem Yardimci 7687755429 iyardimci16@ku.edu.tr 
+DisplayInfo number 0836784762 
+Delete name Barlas Salel 
+Insert Ahmed Kaygusuz 5142103722 akaygusuz54@ku.edu.tr 
+Insert Halileralp Dincer 6961912487 hdincer20@ku.edu.tr 73585 Phillip Lane Lake Taylor, FL 01781-5590 
+Insert Ali Luleci 2835830701 aluleci49@ku.edu.tr 8386 John Forges Suite 361 Porterberg, NH 54690 
+Update email Cem Akbas cakbas82@ku.edu.tr 
+Insert Berk Akogul 9399822265 
+DisplayInfo number 0734134626 
+GetNumber Harun Oz 
+DisplayInfo email omasry62@ku.edu.tr 
+Insert Enes Filiz 8133019177 efiliz63@ku.edu.tr Unit 7035 Box 2185 DPO AP 84435 
+Insert Burak Gulce 7433051735 bgulce17@ku.edu.tr 
+GetName 4104464268 
+Delete number 4440748371 
+Update address Burak Yucetin 784 Lee Terrace Bishopburgh, DC 18012-3524 
+Update address Ayca Aydin Unit 5258 Box 8121 DPO AP 54623 
+Insert Enes Gursoy 8445235969 egursoy10@ku.edu.tr 
+Insert Ayca Yazici 6116433568 ayazici22@ku.edu.tr 2296 Mathis Corners East Michaelchester, TN 97723-6286 
+Insert Barlas Konrat 8868270969 
+Delete name Tayis Gokcek 
+Delete number 9964444779 
+Delete name Ege Akgul 
+Insert Bahadirhan Ozyazici 5864250884 bozyazici43@ku.edu.tr 7317 Wilson Lakes Suite 670 Krystalfurt, AL 84754-2087 
+Update email Ege Tiryakioglu etiryakioglu32@ku.edu.tr 
+Delete name Egemelis Demirci 
+Delete name Alihan Sardag 
+DisplayInfo name Medihameltem Yilmaz 
+Insert Hazal Zorlu 4905979770 
+DisplayInfo email aguncer55@ku.edu.tr 
+Delete number 9023968761 
+Delete name Emre Oguz 
+Insert Dursun Oruc 6236480396 doruc11@ku.edu.tr 
+Delete number 6961912487 
+Delete name Kemalbatuhan Ozdemir 
+DisplayInfo number 2845866968 
+Insert Omerhan Kaygusuz 3794116151 
+Insert Fuatcem Akgul 3902091812 fakgul90@ku.edu.tr 
+DisplayInfo name Yunus Yardimci 
+Insert Fuatcem Aydin 6631520955 faydin28@ku.edu.tr USNV Bailey FPO AP 53978 
+DisplayInfo email bkarasozen87@ku.edu.tr 
+Delete name Haticeirem Okatan 
+Update address Haticeirem Kucukpehlivan 632 Katrina Run East Jerryborough, AL 03898-2863 
+Insert Damlatuana Altinbas 5167827684 
+DisplayInfo number 5793452998 
+Delete name Fuatcem Akgul 
+Delete number 8988506986 
+Insert Osman Cona 2958154717 ocona60@ku.edu.tr 
+DisplayInfo name Dursun Cosgun 
+Delete name Kadir Saygili 
+Delete name Utku Korkmaz 
+Insert Kadir Ozdemir 5050626155 kozdemir90@ku.edu.tr 
+DisplayInfo name Arunekin Luleci 
+GetNumber Atahan Gulce 
+Update email Mehmetrifat Doganay mdoganay72@ku.edu.tr 
+Update email Kaan Yavuz kyavuz55@ku.edu.tr 
+Insert Gultekin Bulgu 8408306624 gbulgu63@ku.edu.tr 721 Nicole Extension Suite 001 Port Wendy, DC 12723 
+GetName 7982865161 
+Insert Fuatcem Basar 9364695741 
+Insert Ayca Kaygusuz 0350366063 akaygusuz43@ku.edu.tr 930 Christine Gateway Apt. 504 Justinborough, HI 37412-2417 
+Delete name Orcun Kutludag 
+Delete name Haticeirem Kucukpehlivan 
+Update email Atahan Gulce agulce52@ku.edu.tr 
+Delete number 5774436850 
+Insert Engindeniz Salel 3233177658 esalel35@ku.edu.tr 18406 Cooke Gardens Suite 505 Turnermouth, ND 65857 
+Update email Enes Balci ebalci45@ku.edu.tr 
+Insert Mehmetrifat Sahbaz 1503532736 msahbaz98@ku.edu.tr 
+Insert Caner Barlas 7711704629 cbarlas37@ku.edu.tr 
+Insert Aydinberk Konrat 9992701020 akonrat60@ku.edu.tr 
+Delete name Hazal Bulgu 
+Insert Bugra Ones 2306854509 
+Insert Ozden Basar 3261421709 
+Delete number 7840124311 
+Update address Muhammedtalha Oz 61176 Guzman Keys Apt. 218 Woodfort, NV 47658-7036 
+Insert Bulut Demir 0464847804 
+Delete name Hazal Zorlu 
+Delete name Mustafaumut Altintop 
+Update address Ismeterdem Balim 9208 Mclaughlin Stream Apt. 431 West Judy, OK 24746 
+GetNumber Ece Ozkan 
+Delete name Baris Zorlu 
+GetNumber Ozgur Doganay 
+Insert Engindeniz Kutludag 5018986150 
+Delete number 6529606559 
+Delete number 2503255121 
+GetName 6337223783 
+GetName 7713791081 
+Update address Bartu Yardimci 0815 Reyes Curve Apt. 575 Heatherfort, FM 99854-3306 
+Delete name Medihameltem Arslanturk 
+DisplayInfo name Elburz Ayanoglu 
+GetNumber Muhammedtalha Oz 
+Update email Alpadnan Aslan aaslan21@ku.edu.tr 
+Insert Dursun Bastug 9857163076 dbastug70@ku.edu.tr USS Vega FPO AA 50817-0695 
+Delete number 6646363714 
+Delete name Dursun Taneli 
+Update address Tanil Bulgu Unit 7719 Box 4811 DPO AP 06495-2077 
+DisplayInfo email cakbas82@ku.edu.tr 
+Delete number 8897827538 
+Delete name Bartu Yardimci 
+GetNumber Pelin Hopali 
+Delete name Alpadnan Boran 
+Delete name Adnanege Sasmaz 
+Update address Ayca Yazici 5721 Steven Underpass East Julieberg, CO 98083 
+Insert Hazal Gursoy 0916736126 hgursoy86@ku.edu.tr 745 Lisa Walk Apt. 799 Jenningschester, WA 87852-8464 
+Update address Yusaomer Boran 9333 Mary Springs Apt. 033 North Chrisstad, CO 81289 
+DisplayInfo number 7433051735 
+Delete name Ayca Yazici 
+Update address Ismeterdem Ayanoglu 0130 April Shore Apt. 123 Port Stephanieton, NJ 72943-3056 
+DisplayInfo email otekalp84@ku.edu.tr 
+Delete name Mustafaumut Durak 
+GetNumber Berrak Sipahioglu 
+Insert Ege Yavuz 1653383533 eyavuz57@ku.edu.tr 
+Update email Ozden Basar obasar32@ku.edu.tr 
+Update address Umut Boluk PSC 8132, Box 6412 APO AE 82194-7356 
+Update address Osman Cona 14706 Dorothy Junctions Gardnerview, MO 41736-7523 
+DisplayInfo email agulce52@ku.edu.tr 
+Update email Harun Ozsuer hozsuer31@ku.edu.tr 
+Delete name Cemege Kaygusuz 
+Insert Furkan Barlas 5344713592 fbarlas38@ku.edu.tr 343 Brianna Walk Apt. 332 Youngshire, AS 68043-5308 
+Delete number 5572958095 
+Delete name Enes Balci 
+Insert Furkan Sipahioglu 3346360173 fsipahioglu62@ku.edu.tr USCGC Hubbard FPO AE 16499-7906 
+Insert Ege Ekmekci 8654250085 eekmekci57@ku.edu.tr 
+GetNumber Fuatcem Basar 
+Update address Gultekin Bulgu 35084 Stewart Oval Apt. 889 Smithborough, MH 73785-7358 
+Update address Kadri Ozyazici 817 Krueger Path Apt. 207 Nicholsonton, OR 33280-9990 
+Insert Ismeterdem Balim 2768568678 ibalim40@ku.edu.tr 
+Update email Atahan Cosgun acosgun83@ku.edu.tr 
+Insert Hazal Oruc 6182060902 
+Delete name Ozden Basar 
+GetNumber Necatibaris Alioglu 
+Delete number 6524197800 
+Insert Tanil Masry 3546471481 
+Delete number 0874494070 
+Insert Egeonat Cakir 8213268984 
+Update address Cuneytemre Cona 8634 Hamilton Estate New Matthew, VI 76345 
+Insert Ege Yavuz 1653383533 eyavuz43@ku.edu.tr 9555 Shields Stravenue Apt. 243 New Troytown, ND 78899-4831 
+Delete number 5850061528 
+Delete name Gokalp Barlas 
+GetNumber Burak Demirci 
+DisplayInfo email mtatlidede79@ku.edu.tr 
+Delete number 1653383533 
+Insert Baranberkay Arslanturk 6879605369 
+Insert Umut Korkmaz 2614241731 ukorkmaz75@ku.edu.tr PSC 0160, Box 5999 APO AE 16955-1361 
+Delete number 1221981564 
+DisplayInfo number 6076177898 
+Delete number 5050626155 
+GetNumber Gultekin Gizer 
+Insert Furkan Ozakar 1525097770 fozakar47@ku.edu.tr 576 Thomas Heights Lake Denise, IL 15099-3216 
+DisplayInfo number 1252173668 
+GetNumber Pelin Perk 
+Delete number 0223837134 
+Delete number 2073069744 
+Delete number 5596752353 
+DisplayInfo name Hazal Sasmaz 
+Update email Furkan Ozakar fozakar73@ku.edu.tr 
+Insert Cansu Ozsuer 7843257069 cozsuer73@ku.edu.tr USNV Schroeder FPO AA 36544-8678 
+Delete name Umaybengisu Akgul 
+DisplayInfo email eozsuer37@ku.edu.tr 
+GetName 6772899124 
+Update email Berk Boluk bboluk22@ku.edu.tr 
+Update email Haldun Sardag hsardag36@ku.edu.tr 
+GetNumber Osman Konrat 
+Update address Kadir Guler 46276 Lucas Coves Cherylmouth, NV 03170-4248 
+Delete number 7119893673 
+Update address Atahan Gulce USNS Nunez FPO AP 51903-4255 
+Insert Ozgur Gokcek 3838081044 
+Delete name Egemelis Cona 
+GetNumber Furkan Arslanturk 
+Insert Melike Bekci 6387080081 mbekci41@ku.edu.tr 9491 Julie Parkway Katherineton, IA 32727-0914 
+Update address Orcun Yazici 774 Marquez Manors Suite 172 New Elizabeth, MI 81322-1114 
+GetNumber Kadir Guler 
+Update address Serkan Gulce PSC 3927, Box 4906 APO AP 68964-8004 
+Delete number 9017444138 
+Update address Bahadirhan Kocas 243 Anthony Center Cruzchester, PA 69352-5509 
+Insert Ayca Kolukisa 2548758498 akolukisa16@ku.edu.tr 
+Update address Omerhan Kaygusuz 0941 Sanchez Squares Apt. 264 Ambertown, DE 61970-9893 
+DisplayInfo name Ahmed Kaygusuz 
+DisplayInfo number 0627889835 
+Insert Melike Toygar 5235990342 mtoygar70@ku.edu.tr 
+Insert Envercan Atisay 8203644088 
+DisplayInfo name Furkan Arslanturk 
+Delete name Arunekin Kolukisa 
+Delete name Merve Akgul 
+Insert Haldun Sardag 5947503267 hsardag80@ku.edu.tr 
+DisplayInfo name Tanil Ozdemir 
+Update address Sitare Akbas 54177 Mark Field Apt. 237 Melissaview, MA 16021-9134 
+GetName 8654250085 
+Insert Arjinrenas Yavuz 8145763571 
+Update address Enes Gursoy 507 Ray Branch West Amanda, MS 60300-3831 
+GetNumber Berkay Avci 
+GetNumber Harun Ozsuer 
+Delete number 1664455831 
+Delete name Mehmetrifat Ciftci 
+Update address Caner Bekci 0300 Carrie Parkways Apt. 501 Lake Rachaelville, OH 97479 
+Delete name Damlatuana Altintop 
+DisplayInfo email aluleci49@ku.edu.tr 
+Delete name Esin Luleci 
+Delete number 3626495150 
+DisplayInfo email akaygusuz43@ku.edu.tr 
+GetNumber Harun Oz 
+Update address Aydinberk Kosar 9045 Smith Highway Apt. 285 Robertburgh, TN 59838-9848 
+Insert Elhan Aslan 4469749214 
+Insert Haticeirem Akkalyoncu 4461861344 hakkalyoncu93@ku.edu.tr Unit 7036 Box 2630 DPO AP 02404 
+Insert Mehmetemre Kaygusuz 7522306445 mkaygusuz17@ku.edu.tr 
+Update email Cansu Ozsuer cozsuer63@ku.edu.tr 
+Delete number 5361500483 
+Delete name Osman Zorlu 
+Delete number 8871198336 
+Insert Elhan Guncer 3370199695 eguncer53@ku.edu.tr 
+Delete name Muhammedtalha Korkmaz 
+Delete name Cem Cakir 
+Update address Melike Toygar 695 Logan Shores Apt. 923 Timothyville, IA 62807 
+Insert Kadri Arslan 0331130680 karslan59@ku.edu.tr 87153 Williams Loop Port Lindseyshire, FM 73420 
+GetNumber Ismeterdem Gursoy 
+Update email Alpadnan Ozyazici aozyazici39@ku.edu.tr 
+Insert Furkan Kayandan 3276762106 fkayandan85@ku.edu.tr 3673 Jacob Villages East Anthony, NM 21868-9240 
+DisplayInfo number 5235990342 
+Delete name Osman Cona 
+Delete number 8242458710 
+GetName 2306854509 
+Update address Bahadirhan Ozyazici 66664 Jonathan Divide Suite 876 East Rebecca, RI 84966-1578 
+Delete number 9456489917 
+Update address Ceren Yilmaz 8895 Yu Junction Apt. 531 Port Angela, AR 30480-8600 
+Delete name Umaybengisu Bozkurt 
+Delete name Ayca Kolukisa 
+DisplayInfo name Baranberkay Korkmaz 
+Insert Berkay Avci 7982865161 bavci54@ku.edu.tr 
+Delete number 3276762106 
+Delete number 0115649411 
+Update address Egeonat Bekci 9878 Craig Key New Shawnchester, ID 20727 
+GetName 1830217900 
+Insert Cem Akbas 9510772255 cakbas55@ku.edu.tr 
+Insert Emir Sasmaz 5887657822 
+GetNumber Melih Altintop 
+Update email Arunekin Avci aavci88@ku.edu.tr 
+Delete number 1055837388 
+Delete name Melike Toygar 
+Delete name Aydinberk Kosar 
+Delete name Dogacan Baskaya 
+Update email Arunekin Avci aavci20@ku.edu.tr 
+Update address Ahmet Deveci 57728 Andrew Lane Suite 325 South Tiffanyborough, IL 55229 
+Insert Pelin Hopali 3458756051 
+Insert Ozgur Doganay 0627889835 
+Delete name Fuatcem Aydin 
+Delete number 4185463809 
+Delete name Ceren Ozdemir 
+Delete name Damlatuana Avci 
+Insert Umut Korkmaz 0823927965 ukorkmaz39@ku.edu.tr 
+DisplayInfo number 9365006611 
+Delete number 4142217706 
+Insert Bahadirhan Cubuk 3609825022 bcubuk21@ku.edu.tr 98354 Barber Isle Apt. 034 North Jennifer, FM 53789-3751 
+Insert Baris Karakas 8937647246 bkarakas24@ku.edu.tr 
+GetName 5077916993 
+Delete name Ayca Aydin 
+Insert Kadri Arslan 0331130680 
+DisplayInfo name Doruk Balim 
+Insert Cansu Ozsuer 7843257069 cozsuer13@ku.edu.tr 12159 Pratt Crossing Garytown, AZ 78424 
+Delete name Arunekin Ozdemir 
+Update address Tanil Masry 71086 Miller Inlet Michaelton, CO 05144 
+GetName 1356336942 
+Insert Ege Yazici 1437449966 
+GetNumber Pelin Perk 
+Insert Burakcem Baskaya 0681567986 bbaskaya65@ku.edu.tr 
+DisplayInfo email eyakal38@ku.edu.tr 
+Insert Pelin Bastug 8320736986 
+Insert Kazim Barlas 2622396404 kbarlas95@ku.edu.tr 792 Amy Centers Suite 308 South Brandonhaven, TX 89386 
+Delete name Dursun Oruc 
+Delete number 0836784762 
+Insert Sitare Durak 9915740538 
+DisplayInfo email cakbas55@ku.edu.tr 
+Insert Umut Gokcek 6829187420 ugokcek77@ku.edu.tr 
+Insert Egemelis Yakal 5504437174 
+Delete name Ismeterdem Ayanoglu 
+Delete name Ece Ozkan 
+Insert Melike Cakir 3186714033 mcakir93@ku.edu.tr 
+Update email Serkan Gulce sgulce41@ku.edu.tr 
+Delete number 3843021219 
+Delete number 8441714874 
+Insert Mahmutkarahan Okatan 3293796314 mokatan36@ku.edu.tr 
+Insert Caner Barlas 7711704629 cbarlas59@ku.edu.tr 55797 Williams Meadows New Bethany, GU 42251-7391 
+GetNumber Umut Korkmaz 
+Update email Ozgur Doganay odoganay58@ku.edu.tr 
+Delete number 3838081044 
+Insert Rabiasimal Menguaslan 8403443074 
+Insert Berk Barlas 4075301108 bbarlas80@ku.edu.tr 
+GetName 4904017381 
+Delete name Esin Ozsuer 
+Delete number 5504437174 
+Update email Ali Arslan aarslan96@ku.edu.tr 
+Update address Fuatcem Ersu 283 Brown Brooks Suite 993 Henrymouth, IL 25441 
+Update address Doruk Balim 693 Amanda Corner Darrenland, MO 80998 
+Delete number 5756581028 
+Update email Baris Karakas bkarakas25@ku.edu.tr 
+Delete number 8183974368 
+Delete name Mehmetemre Kaygusuz 
+Insert Doruk Besiroglu 2731720025 dbesiroglu25@ku.edu.tr 
+Insert Atakan Cona 3907711371 acona84@ku.edu.tr 
+Insert Yusaomer Doganay 9365037255 ydoganay36@ku.edu.tr 62548 Jonathan Bridge South Christopherside, NV 47036-9309 
+Insert Ihsan Bekci 1994055740 ibekci37@ku.edu.tr Unit 8942 Box 5867 DPO AP 90932 
+DisplayInfo email eozsuer51@ku.edu.tr 
+Delete name Bartu Sasmaz 
+Update address Enesfaruk Cubuk 022 Camacho Trail North Destiny, AR 21118 
+Update email Damlatuana Altinbas daltinbas18@ku.edu.tr 
+GetName 3794116151 
+Delete name Alper Kutludag 
+DisplayInfo number 5505094304 
+Delete name Fuatcem Ersu 
+Delete number 2876244061 
+GetNumber Duygusezen Akgul 
+DisplayInfo email kyavuz55@ku.edu.tr 
+Delete name Fuatcem Barlas 
+Delete name Envercan Atisay 
+Update address Egeonat Bekci 7348 Wallace Streets Apt. 190 Travischester, MP 24731 
+DisplayInfo number 1447708965 
+DisplayInfo number 8523976935 
+Delete name Kaan Yavuz 
+Delete number 9212764053 
+Insert Yusaomer Gizer 8480552941 ygizer91@ku.edu.tr 
+GetNumber Ozgur Doganay 
+GetNumber Ege Tiryakioglu 
+Delete name Yusaomer Doganay 
+GetNumber Kaan Tekalp 
+Update email Gokalp Sahbaz gsahbaz54@ku.edu.tr 
+Insert Berrak Sipahioglu 0062782107 bsipahioglu91@ku.edu.tr 46364 Rosales Village Apt. 463 North Nicholas, MA 22306-9624 
+DisplayInfo name Necatibaris Cakir 
+Delete name Haldun Sardag 
+Delete name Baranberkay Oruc 
+Update address Ege Yazici 648 Robinson Mission South Dalechester, WI 46218 
+Delete number 8480552941 
+Insert Haticeirem Gunay 3583867910 hgunay69@ku.edu.tr 15115 Goodman Ramp Suite 783 Daltonburgh, NY 25437-8157 
+Insert Canberk Alioglu 4834717773 calioglu69@ku.edu.tr 
+Insert Onur Kucukpehlivan 8331354524 
+Insert Alihan Ozkan 9903127715 
+Insert Mehmetumut Sener 2093942241 msener98@ku.edu.tr 63906 Phelps Cape Apt. 962 West Victoriaton, CO 46643-2638 
+Delete number 2998396843 
+Delete name Cuneytemre Cona 
+Delete number 9238290423 
+Insert Kadir Saygili 1079589486 
+Update address Pelin Bastug 96463 Simmons Crossing East Spencer, MI 24078-7268 
+Insert Ismeterdem Yardimci 7687755429 
+Insert Umut Perk 3658639571 uperk13@ku.edu.tr 
+Update email Baris Karakas bkarakas36@ku.edu.tr 
+Delete name Furkan Sipahioglu 
+Delete number 9130493950 
+DisplayInfo name Tanil Bulgu 
+GetNumber Muhammedtalha Oz 
+DisplayInfo name Sitare Durak 
+Insert Ege Altinbas 6957185272 ealtinbas36@ku.edu.tr 499 Gomez Mill Apt. 784 East Kathleentown, AZ 64401-0637 
+Insert Osman Sipahioglu 7356140947 osipahioglu31@ku.edu.tr 5603 Burch Plains Amandamouth, FL 31666 
+DisplayInfo number 5123438385 
+Delete name Hazal Oruc 
+Insert Canberk Sener 0496432530 
+Delete number 1620874985 
+GetName 4347963007 
+Delete name Burak Demirci 
+DisplayInfo number 8403443074 
+Update email Arjinrenas Tatlidede atatlidede77@ku.edu.tr 
+Insert Umaybengisu Ozakar 2686278032 uozakar27@ku.edu.tr 
+Delete name Esin Karakas 
+GetNumber Burakcem Ozkan 
+Update email Doruk Besiroglu dbesiroglu14@ku.edu.tr 
+Delete name Kaan Oguz 
+Insert Taluhan Yardimci 2575458225 tyardimci63@ku.edu.tr 
+Insert Gultekin Yucetin 4226810724 
+Update address Ozgur Okatan 0917 Shaun Estate Suite 939 East Michelleshire, MN 95019-4492 
+GetName 6076177898 
+Delete name Hakkitaha Perk 
+Insert Volkan Akbas 8918127500 vakbas97@ku.edu.tr 723 Fox Neck Joshuafort, GA 38343 
+Delete name Arunekin Avci 
+GetNumber Burak Gulce 
+Insert Kadir Ersu 0077307256 
+Insert Kadri Boran 9251903717 kboran64@ku.edu.tr 65784 David Island West Donna, HI 54754 
+Delete number 9903127715 
+Insert Tayis Toygar 5466699259 ttoygar42@ku.edu.tr 
+Update email Ali Balci abalci63@ku.edu.tr 
+Insert Ali Luleci 2099627977 
+Delete name Muhammedtalha Oz 
+DisplayInfo email aarslan96@ku.edu.tr 
+DisplayInfo name Arjinrenas Yavuz 
+Insert Hakkitaha Salel 6834633994 
+Delete name Necatibaris Cakir 
+Insert Arjinrenas Yavuz 8145763571 ayavuz24@ku.edu.tr 
+DisplayInfo email eaydin90@ku.edu.tr 
+Insert Kaan Guncer 6964370845 kguncer41@ku.edu.tr 
+Update address Pelin Hopali 558 Swanson Flat Apt. 885 North Janetmouth, MP 45642-4162 
+Insert Yusaomer Boran 8852849000 yboran76@ku.edu.tr 073 Robinson Turnpike Apt. 457 Port Tammie, IA 93441-6951 
+Delete name Omerhan Kaygusuz 
+Update email Melike Bekci mbekci33@ku.edu.tr 
+GetName 5093932628 
+DisplayInfo number 4469749214 
+DisplayInfo name Ayca Kaygusuz 
+DisplayInfo name Pelin Hopali 
+Delete name Haticeirem Akkalyoncu 
+GetNumber Umaybengisu Karakas 
+Insert Elburz Ones 5706467139 eones77@ku.edu.tr 
+Update email Doruk Balim dbalim99@ku.edu.tr 
+DisplayInfo email fkavcioglu42@ku.edu.tr 
+Insert Melike Menguaslan 6589810117 mmenguaslan85@ku.edu.tr 53875 Rodriguez Tunnel East Raymond, OH 41360 
+Delete number 4469749214 
+Delete number 8403443074 
+Delete number 4583837475 
+Delete name Ayca Kaygusuz 
+Update address Arjinrenas Yavuz 68791 Shaw Throughway Apt. 197 Shannonshire, MH 31350-0064 
+Insert Kadri Kayandan 9815816844 kkayandan72@ku.edu.tr 9808 Heather Mill Vanessamouth, NH 69492 
+Insert Berk Ozsuer 0172763912 bozsuer50@ku.edu.tr 
+Delete number 8320736986 
+DisplayInfo name Kemalbatuhan Demir 
+Delete name Ismeterdem Balim 
+Insert Mehmetumut Orhan 6076177898 
+Delete number 9364695741 
+GetNumber Arjinrenas Yavuz 
+GetNumber Kadri Kayandan 
+DisplayInfo email abalci63@ku.edu.tr 
+Insert Ozgur Okatan 5123438385 
+Delete number 2306854509 
+Insert Sitare Durak 9915740538 sdurak18@ku.edu.tr 12742 Melissa Land New Martha, VA 80402-7494 
+Update email Tumay Hopali thopali30@ku.edu.tr 
+Update email Mehmetumut Orhan morhan89@ku.edu.tr 
+Insert Tayis Akgul 3157922338 takgul36@ku.edu.tr 
+Delete name Ali Balci 
+Delete name Mehmetumut Orhan 
+Delete name Engindeniz Kutludag 
+DisplayInfo email ibekci37@ku.edu.tr 
+Delete name Umut Korkmaz 
+Delete name Mehmettaha Akgul 
+DisplayInfo name Mehmetumut Sener 
+Delete name Elburz Ayanoglu 
+GetNumber Pelin Hopali 
+Delete number 1503532736 
+DisplayInfo number 0893581275 
+Delete name Damlatuana Altinbas 
+Delete number 9857163076 
+Delete name Duygusezen Barlas 
+DisplayInfo number 5505094304 
+Delete name Enesfaruk Baskaya 
+Delete name Ece Guler 
+DisplayInfo number 2421363975 
+Update address Ege Altinbas 644 Stephanie Heights Suite 297 South Amberville, FM 34075 
+Insert Kadir Masry 2948370747 kmasry20@ku.edu.tr 
+DisplayInfo number 3789381260 
+DisplayInfo number 0627889835 
+DisplayInfo number 5142103722 
+Update address Ege Ekmekci 208 Caroline Plains Suite 469 Tylerville, CT 21915-1164 
+Delete name Arunekin Luleci 
+GetName 2099627977 
+Delete number 8868270969 
+DisplayInfo number 0077307256 
+Update address Melike Bekci 60014 Burns Fork Marieborough, MO 83353 
+Update email Bulut Demir bdemir50@ku.edu.tr 
+GetNumber Baris Karakas 
+Update email Cansu Budak cbudak99@ku.edu.tr 
+Delete number 9214169781 
+Insert Mahmutkarahan Okatan 3293796314 mokatan80@ku.edu.tr 5338 Bradley Pine Suite 186 New Kevin, MH 40869-6416 
+Delete name Osman Sipahioglu 
+Update email Osman Balim obalim81@ku.edu.tr 
+Delete name Deniz Balim 
+GetNumber Melike Gulce 
+GetNumber Kadir Ersu 
+GetNumber Kemalbatuhan Demir 
+Insert Engindeniz Sardag 7944797674 esardag95@ku.edu.tr 6683 Christopher Drive Port Stacy, WI 69084-2171 
+Delete number 3504586003 
+Insert Furkan Ozakar 1525097770 fozakar28@ku.edu.tr 
+GetNumber Berkay Avci 
+Insert Necatibaris Karakas 7467006281 
+Insert Okan Masry 8523976935 omasry11@ku.edu.tr 749 Adams Alley Apt. 661 Sheilafurt, TN 59002-2178 
+Update address Berk Ozsuer 145 Timothy Via East Carlos, CT 73707-4073 
+Insert Tanil Ozdemir 0177230784 tozdemir68@ku.edu.tr 26266 Mata Ridges Port Janetbury, IL 33992 
+Delete name Umaybengisu Karakas 
+DisplayInfo email bbarlas80@ku.edu.tr 
+Delete number 4416749905 
+GetName 5706467139 
+Update address Alpadnan Aslan 780 Abigail Burgs East Alexander, AK 77293 
+Delete name Doruk Balim 
+Delete name Bulut Demir 
+Update email Ali Luleci aluleci13@ku.edu.tr 
+Insert Furkan Barlas 5344713592 
+Delete number 2731720025 
+Update address Berk Ozsuer 29211 Lisa River Port Shari, AL 16975-0328 
+Delete name Kadir Masry 
+Delete name Ege Tiryakioglu 
+Insert Adnanege Gunay 6307715905 
+Delete number 8445235969 
+Delete number 4834717773 
+GetNumber Burakcem Baskaya 
+Insert Onur Kucukpehlivan 8331354524 
+Update address Cansu Ozsuer 457 Smith Mountains Apt. 813 North Jill, WV 07335-8662 
+GetNumber Ozgur Kayandan 
+Delete name Melike Gulce 
+GetName 3223657314 
+Insert Okan Okatan 9365006611 ookatan60@ku.edu.tr 
+Update address Gultekin Yucetin 92576 Kennedy Islands New William, NJ 52187-3646 
+Delete name Ege Gulce 
+Insert Kadri Arslan 0331130680 karslan30@ku.edu.tr 045 Singleton Manors Apt. 372 Jenniferton, MI 65730-9817 
+Update email Aydinberk Konrat akonrat52@ku.edu.tr 
+Delete number 8852849000 
+Update email Serkan Gulce sgulce42@ku.edu.tr 
+Insert Enes Ozakar 7043462115 
+Delete name Medihameltem Yilmaz 
+Delete number 7852868979 
+Delete name Atahan Gulce 
+Insert Kemalbatuhan Besiroglu 0074557822 
+Delete name Taluhan Yardimci 
+DisplayInfo name Berk Boluk 
+DisplayInfo email ealtinbas36@ku.edu.tr 
+Delete name Berk Ozsuer 
+Delete number 8918127500 
+Update email Berk Barlas bbarlas78@ku.edu.tr 
+GetNumber Ozgur Kayandan 
+Delete name Ali Luleci 
+DisplayInfo number 1029930211 
+Delete name Engindeniz Sardag 
+GetName 8523976935 
+Delete number 9599034083 
+Insert Hazal Gursoy 0916736126 
+Insert Elburz Korkmaz 8937489555 ekorkmaz95@ku.edu.tr 
+Delete name Umut Gokcek 
+Delete number 8768496868 
+GetName 2093942241 
+Update address Ozgur Kayandan 81216 Christopher Inlet Apt. 809 North Carlastad, PR 68289-1923 
+GetName 1879849806 
+Update email Ihsan Bekci ibekci17@ku.edu.tr 
+Delete name Tanil Bulgu 
+Update email Elhan Guncer eguncer93@ku.edu.tr 
+Delete number 2686278032 
+Insert Alihan Avci 6509236438 
+DisplayInfo number 4075301108 
+Update address Kadri Dincer 3446 Kenneth Street West Julie, HI 61822 
+DisplayInfo name Engindeniz Salel 
+GetName 0893581275 
+Update address Egeonat Aydin 49490 Joanna Creek Apt. 536 Port Scottview, MD 03151 
+Update address Berk Akogul PSC 6858, Box 5764 APO AA 01515-0900 
+Insert Doruk Kayandan 6584658672 
+Update address Alper Durak 654 Rodney Shoals Apt. 265 Joelfort, DC 97461-9209 
+Delete number 7687755429 
+DisplayInfo number 0627889835 
+GetNumber Elhan Guncer 
+Update address Serkan Gulce 1910 Holt Extension Suite 874 Johnfort, AS 09528-7481 
+Insert Alpadnan Yilmaz 8295440898 ayilmaz63@ku.edu.tr 
+Insert Arunekin Karakas 3582285092 akarakas71@ku.edu.tr 16778 Torres Ports Laurenhaven, IN 23096 
+Delete number 6584658672 
+Insert Hazal Gursoy 0916736126 
+Insert Haticeirem Gunay 3583867910 
+GetNumber Ibrahimethem Gokcek 
+Insert Kadir Saygili 1079589486 
+Delete number 5793452998 
+Insert Kadir Saygili 1079589486 
+Update address Alpadnan Yilmaz 165 Steven Glens Apt. 411 Lake Melinda, MS 08280 
+DisplayInfo name Sitare Akbas 
+Update address Merve Islakoglu 32252 Steven Expressway Apt. 432 Kaylafort, PR 41383-8187 
+Delete number 3751454156 
+Delete name Adnanege Gunay 
+Delete name Kadri Boran 
+Delete name Egemelis Yavuz 
+GetNumber Alihan Avci 
+Delete name Berkay Ozil 
+Delete name Sitare Durak 
+Delete name Aydinberk Konrat 
+Delete name Atahan Cosgun 

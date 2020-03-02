@@ -1,0 +1,4 @@
+Ercan Buy 8
+Tugrul Sell 10
+Berk Change Sell 9
+Can Change Buy 11

@@ -1,0 +1,13 @@
+RizaArda Buy 44
+CanTaylan Sell 15
+AhmetTalha Change Buy 22
+BerrinNaz Sell 20
+IbrahimDurul Buy 31
+Irem Buy 51
+AhmetMurat Sell 16
+Tayis Sell 56
+OzgurTaylan Remove Sell 41
+OsmanBugra Change Buy 69
+Ekin Sell 46
+Eda Sell 84
+MustafaBurak Buy 62

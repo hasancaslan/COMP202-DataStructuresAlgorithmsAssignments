@@ -1,0 +1,9 @@
+Aytunc Sell 2
+AhmetTalha Buy 99
+MustafaBurak Buy 52
+Berkay Buy 64
+Dilara Remove Sell 51
+Berke Change Sell 16
+Tayis Sell 84
+YunusEmre Sell 23
+Mertkan Buy 51

@@ -1,0 +1,16 @@
+Aytunc Remove Sell 32
+AhmetErdem Sell 36
+Baris Buy 38
+RizaArda Buy 36
+OsmanBugra Buy 16
+Baris Change Buy 48
+YoelBaris Sell 21
+Alkin Buy 42
+Huseyin Sell 24
+OzgurTaylan Change Sell 15
+Ozge Remove Sell 46
+AhmetErdem Change Sell 32
+Mertkan Buy 40
+TuanBerk Sell 20
+AhmetMurat Remove Sell 35
+MustafaAyberk Buy 18

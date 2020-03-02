@@ -1,0 +1,10 @@
+EnginDeniz Buy 56
+IlaydaEzgi Sell 34
+IsmetErdem Sell 13
+AhmetTalha Change Buy 23
+Side Buy 61
+Cem Buy 41
+Burak Sell 24
+Ozge Change Sell 94
+Aykut Change Sell 37
+OzgurTaylan Change Sell 7

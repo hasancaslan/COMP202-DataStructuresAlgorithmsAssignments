@@ -1,0 +1,15 @@
+EnginDeniz Change Buy 37
+Arda Sell 21
+Sinan Buy 19
+TuanBerk Change Sell 13
+Deniz Buy 23
+AhmetErdem Sell 31
+AhmetMurat Sell 30
+Atahan Sell 20
+Aytunc Sell 46
+Yigit Change Sell 25
+Yigit Remove Sell 25
+UmurBurhan Buy 29
+Alper Change Sell 19
+IbrahimEthem Change Sell 22
+Ekin Sell 25

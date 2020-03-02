@@ -1,0 +1,7 @@
+Mustafa Sell 14
+ElburzDavid Buy 34
+UmurBurhan Change Buy 32
+ElburzDavid Change Buy 24
+Berkan Buy 30
+Hamza Remove Sell 44
+IlkerKadir Sell 34

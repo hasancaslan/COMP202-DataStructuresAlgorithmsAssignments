@@ -1,0 +1,13 @@
+Irem Buy 100
+Burak Sell 49
+Asli Sell 98
+AhmetBurak Sell 20
+Muhammet Remove Sell 57
+Ali Sell 5
+MehmetSamed Sell 63
+Baris Buy 67
+CansuDamla Sell 16
+Yigit Sell 36
+MehmetEmre Sell 53
+Aytunc Sell 37
+Hamza Change Sell 39

@@ -1,0 +1,14 @@
+IbrahimEthem Sell 28
+Ozge Sell 11
+CanTaylan Sell 16
+Kivanc Sell 42
+MehmetSamed Sell 48
+Mustafa Change Sell 15
+Arda Sell 23
+MustafaMert Buy 25
+CanTaylan Remove Sell 16
+TuanBerk Sell 39
+Irem Buy 38
+Aytunc Change Sell 26
+Aytunc Remove Sell 26
+Irmak Buy 28

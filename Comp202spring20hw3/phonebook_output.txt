@@ -1,0 +1,881 @@
+Number of contacts: 247
+AbdullahYavuz 3843021219
+AdnanegeSasmaz 4731075240
+AgabeyBarlas 4440748371
+AgabeyKaygusuz 0272905779
+AhmedCakir 0223837134
+AhmedKaygusuz 5142103722
+AhmetDeveci 2283692977
+AhmetSaygili 6614773299
+AliArslan 1029930211
+AliAydin 2212803578
+AliBalci 3010725411
+AlihanKaygusuz 8977229770
+AlihanOzkan 9903127715
+AlihanSardag 2567307997
+AlpadnanAslan 2217466615
+AlpadnanBoran 2748769742
+AlpadnanEkmekci 0836784762
+AlpadnanHokelek 6646363714
+AlpadnanKocas 9238290423
+AlpadnanOzyazici 3665765533
+AlperDurak 2357074948
+AlperKutludag 8229161102
+ArunekinArslan 5154145453
+ArunekinKolukisa 6078370261
+ArunekinOzdemir 1830217900
+AtahanCosgun 4095558220
+AtahanOzyazici 9130493950
+AycaAydin 0915052907
+AycaYazici 6116433568
+AydinberkKipge 3626495150
+AydinberkKosar 5906910797
+AydinberkOzdemir 5519094084
+BahadirhanCubuk 3609825022
+BahadirhanKocas 0510437204
+BahadirhanOzyazici 9392857270
+BaranberkayKorkmaz 8405505003
+BaranberkayOruc 5703451614
+BarisUslu 3145063386
+BarisZorlu 6148017226
+BarlasSalel 6932880008
+BartuSasmaz 2495144815
+BartuUslu 8988506986
+BartuYardimci 2052567270
+BerkBastug 1706164311
+BerkBoluk 3638486753
+BerkayCakir 5077916993
+BerkayKarasozen 8183974368
+BerkayOzil 2457598494
+BerkayYilmaz 0846503404
+BerrakKarakas 6959138012
+BerrakSipahioglu 0062782107
+BerrakYavuz 4588978912
+BulutDemir 0464847804
+BulutOkumus 4224064754
+BulutYucetin 3939814603
+BurakDemirci 7166139112
+BurakDurak 2610087214
+BurakOzdemir 1228920686
+BurakcemOzkan 3223657314
+CanerBarlas 7711704629
+CanerBekci 0115649411
+CansuBudak 9253821779
+CansuOzsuer 7843257069
+CemCakir 6585033649
+CemDemirci 5634520016
+CemGokcek 6686729800
+CemegeKaygusuz 8815735938
+CemegeKaytaz 2222433602
+CerenOzdemir 3078961712
+CerenOzkan 2041775821
+CerenYilmaz 4416749905
+CuneytemreCona 5824056141
+CuneytemreGuncer 9746392991
+DamlatuanaAltintop 2796424920
+DamlatuanaAvci 3600353130
+DamlatuanaAyanoglu 3876966027
+DenizBalim 6733912984
+DenizYilmaz 1202559635
+DenizZorlu 1620874985
+DogacanBaskaya 0171775275
+DogacanCubuk 9456489917
+DogacanOruc 1290101896
+DorukBalim 1178730924
+DursunBastug 9857163076
+DursunCosgun 9017444138
+DursunTaneli 9676755065
+DuygusezenAkgul 3751454156
+DuygusezenBarlas 0444277057
+EceGuler 3029068660
+EceOzkan 0734134626
+EgeAkgul 3007950035
+EgeAlioglu 8871198336
+EgeDurak 0686370120
+EgeGulce 3789381260
+EgeTiryakioglu 1353996915
+EgeYavuz 1653383533
+EgeYazici 1437449966
+EgemelisCona 7589319391
+EgemelisKutludag 7840124311
+EgemelisYavuz 7713791081
+EgeonatCona 8441714874
+ElburzAyanoglu 7352817600
+EmirKayandan 7917721181
+EmirSasmaz 5887657822
+EmirYakal 9961007818
+EmreOguz 5537911188
+EmreYilmaz 0393376845
+EnesBalci 5390949670
+EnesOzakar 7043462115
+EnesUslu 3504586003
+EnesfarukBaskaya 4416307646
+EnesfarukCubuk 9133512448
+EnesfarukGunay 9964444779
+EnesfarukMenguaslan 9702627206
+EngindenizIslakoglu 1658116198
+EngindenizKutludag 5018986150
+EngindenizOzil 5865301621
+EngindenizSalel 3233177658
+ErgizKucukpehlivan 7962608353
+EsinKarakas 6249120406
+EsinLuleci 6869866916
+EsinOzsuer 5666857717
+FuatcemAydin 6631520955
+FuatcemBarlas 5319998777
+FuatcemErsu 1252173668
+FuatcemGuncer 1705550404
+FuatcemKorkmaz 6548120220
+FurkanArslanturk 5361500483
+GokalpBoluk 1879849806
+GokalpOnes 3597168634
+GokalpYardimci 8400223256
+GultekinBulgu 8408306624
+GultekinGizer 6478622349
+HakkitahaAslan 7119893673
+HakkitahaPerk 0025413696
+HaldunGuler 6529606559
+HaldunSardag 2845866968
+HarunOz 0893581275
+HarunOzsuer 4142217706
+HarunTaneli 7383152249
+HaticeiremGunay 3583867910
+HaticeiremKucukpehlivan 8534524711
+HaticeiremOkatan 7896901130
+HazalAlioglu 4649388678
+HazalBulgu 2971160399
+HazalGursoy 0916736126
+HazalOruc 6318974619
+HazalSasmaz 0006884529
+IbrahimethemGokcek 3231772079
+IbrahimethemOz 8897827538
+IhsanOguz 4291535800
+IhsanOzakar 4802747416
+IsmeterdemAyanoglu 6337223783
+IsmeterdemBalim 6946234190
+IsmeterdemBasar 0272974871
+IsmeterdemGursoy 3915376468
+KaanHokelek 2805974595
+KaanOguz 3445344806
+KaanTekalp 6972257222
+KaanToker 0091385825
+KaanUysal 8368948926
+KaanYavuz 2928561287
+KadirGuler 2998396843
+KadirSaygili 4511451727
+KadriAkbas 9023968761
+KadriArslan 0331130680
+KadriDincer 4546706893
+KadriOzdemir 2773241193
+KadriOzyazici 6524197800
+KazimGizer 0125624612
+KazimUysal 8935509330
+KemalbatuhanDemir 5948626246
+KemalbatuhanOzdemir 1375407595
+KemalbatuhanYavuz 6334371282
+MahmutkarahanOz 1664455831
+MedihameltemArslanturk 6212912863
+MedihameltemYilmaz 5093932628
+MehmetrifatCiftci 4932674744
+MehmetrifatDoganay 5572958095
+MehmetrifatKutludag 2421363975
+MehmetrifatSahbaz 1503532736
+MehmettahaAkgul 4347963007
+MelihAltintop 2876244061
+MelihAtisay 6480137542
+MelikeBekci 6387080081
+MelikeCakir 3186714033
+MelikeGulce 2581331684
+MelikeKutludag 4904017381
+MerveAkgul 3274900587
+MerveIslakoglu 5505094304
+MuhammedtalhaAkbas 1055837388
+MuhammedtalhaAlioglu 1447708965
+MuhammedtalhaKorkmaz 7146692308
+MuhammedtalhaOz 6588545370
+MustafaumutAltintop 8966227217
+MustafaumutDurak 1895984432
+MustafaumutGizer 2792446662
+MustafaumutTatlidede 2073069744
+NecatibarisAlioglu 5850061528
+NecatibarisCakir 2975667025
+NecatibarisLuleci 5756581028
+OkanOkatan 9365006611
+OkanTekalp 9583151841
+OnurKucukpehlivan 8331354524
+OrcunAydin 0258110622
+OrcunKutludag 0157687488
+OrcunYazici 4104464268
+OsmanBalim 7852868979
+OsmanSipahioglu 7356140947
+OsmanYakal 2750573448
+OzdenBasar 3261421709
+OzdenBoran 1221981564
+OzgurDoganay 0627889835
+OzgurGokcek 0903041522
+OzgurKayandan 6177857538
+OzgurOkatan 5123438385
+PelinHopali 3458756051
+PelinPerk 9200832176
+RabiasimalAltintop 8009554629
+RabiasimalAyanoglu 0874494070
+RabiasimalMenguaslan 1468838925
+SitareAkbas 1434101678
+SitareAkogul 9214169781
+SitareKaytaz 5774436850
+TanilAslan 2076863689
+TanilBulgu 8617856085
+TanilDurak 7643622339
+TanilFiliz 8897474779
+TanilMasry 3546471481
+TanilOzdemir 0177230784
+TanilOzkan 9854398448
+TayisGokcek 8790468522
+TayisToygar 5466699259
+TumayErsu 9830021699
+TumayHopali 5394331991
+UmaybengisuAkgul 3106268983
+UmaybengisuBozkurt 3858217537
+UmaybengisuIslakoglu 6902097539
+UmaybengisuKarakas 4102968254
+UmaybengisuOzakar 2686278032
+UmutBoluk 9599034083
+UmutDeveci 5981029797
+UtkuKorkmaz 2935058835
+YunusGuler 6263097330
+YunusUslu 5304221463
+YunusYardimci 2770827849
+YusaomerBoran 8852849000
+
+Applying the operations from the query list
+3458756051: PelinHopali
+
+7589319391: EgemelisCona
+
+Name: BurakYucetin
+Number: 9212764053
+E-mail: byucetin59@ku.edu.tr
+
+DorukBalim: 1178730924
+
+Name: NecatibarisCakir
+Number: 2975667025
+
+MelihAtisay: 6480137542
+
+Name: BurakYucetin
+Number: 9212764053
+E-mail: byucetin59@ku.edu.tr
+
+Name: TanilFiliz
+Number: 8897474779
+
+7119893673: HakkitahaAslan
+
+Name: MustafaumutTatlidede
+Number: 2073069744
+E-mail: mtatlidede79@ku.edu.tr
+
+Name: AydinberkLuleci
+Number: 2503255121
+Address: 062 White Summit Suite 619 West Crystalville, AZ 28781-5773 
+E-mail: aluleci22@ku.edu.tr
+
+6337223783: IsmeterdemAyanoglu
+
+Name: PelinHopali
+Number: 3458756051
+Address: 352 Garcia Fall Suite 343 South Anthonyside, CT 11007 
+E-mail: phopali89@ku.edu.tr
+
+Name: OzgurKayandan
+Number: 6177857538
+
+MelikeBekci: 6387080081
+
+Name: MuhammedtalhaKorkmaz
+Number: 7146692308
+
+Name: HaticeiremOkatan
+Number: 6173707355
+Address: 27055 Villarreal Radial Apt. 487 East David, SC 38647-4589 
+E-mail: hokatan48@ku.edu.tr
+
+Name: MustafaumutGizer
+Number: 2792446662
+
+TayisToygar: 5466699259
+
+HaticeiremGunay: 3583867910
+
+Name: OzdenBasar
+Number: 3261421709
+
+Name: BulutGursoy
+Number: 4185463809
+
+Name: AydinberkGuncer
+Number: 5939823253
+Address: 2450 Thomas River South Yolanda, IN 22005-5086 
+E-mail: aguncer55@ku.edu.tr
+
+Name: AlpadnanEkmekci
+Number: 0836784762
+
+Name: EnesBalci
+Number: 5390949670
+
+Name: IsmeterdemAyanoglu
+Number: 6337223783
+
+EgeonatCona: 8441714874
+
+0025413696: HakkitahaPerk
+
+Name: EgeYazici
+Number: 1437449966
+
+Name: EsinOzsuer
+Number: 5666857717
+E-mail: eozsuer51@ku.edu.tr
+
+Name: AliBalci
+Number: 3010725411
+Address: 924 Levy Forge South Laurie, GU 21743-3529 
+E-mail: abalci66@ku.edu.tr
+
+6772899124: OzgurGokcek
+
+CemegeKaygusuz: 8815735938
+
+Name: AlpadnanAslan
+Number: 2217466615
+
+Name: ArunekinAvci
+Number: 2036387685
+E-mail: aavci68@ku.edu.tr
+
+IsmeterdemAyanoglu: 6337223783
+
+SitareAkbas: 1434101678
+
+MuhammedtalhaKorkmaz: 7146692308
+
+Name: PelinPerk
+Number: 9200832176
+
+EgeDemir: 5822706560
+
+GokalpBarlas: 2984726944
+
+8897827538: IbrahimethemOz
+
+Name: EgemelisDemirci
+Number: 9998993257
+E-mail: edemirci88@ku.edu.tr
+
+Name: EgeAlioglu
+Number: 8871198336
+
+Name: OkanTekalp
+Number: 9583151841
+E-mail: otekalp84@ku.edu.tr
+
+Name: AlpadnanEkmekci
+Number: 0836784762
+
+Name: EceOzkan
+Number: 0734134626
+
+HarunOz: 0893581275
+
+Name: OkanMasry
+Number: 8523976935
+E-mail: omasry62@ku.edu.tr
+
+4104464268: OrcunYazici
+
+Name: MedihameltemYilmaz
+Number: 5093932628
+
+Name: AydinberkGuncer
+Number: 5939823253
+Address: 2450 Thomas River South Yolanda, IN 22005-5086 
+E-mail: aguncer55@ku.edu.tr
+
+Name: HaldunSardag
+Number: 2845866968
+
+Name: YunusYardimci
+Number: 2770827849
+
+Name: BerkayKarasozen
+Number: 8183974368
+E-mail: bkarasozen87@ku.edu.tr
+
+Name: GokalpSahbaz
+Number: 5793452998
+E-mail: gsahbaz24@ku.edu.tr
+
+Name: DursunCosgun
+Number: 9017444138
+
+Name: ArunekinLuleci
+Number: 6719361190
+Address: 35583 Jonathan Squares Port Patrickstad, OH 13759 
+E-mail: aluleci93@ku.edu.tr
+
+AtahanGulce: 6017526292
+
+7982865161: BerkayAvci
+
+EceOzkan: 0734134626
+
+OzgurDoganay: 0627889835
+
+6337223783: IsmeterdemAyanoglu
+
+7713791081: EgemelisYavuz
+
+Name: ElburzAyanoglu
+Number: 7352817600
+
+MuhammedtalhaOz: 6588545370
+
+Name: CemAkbas
+Number: 9510772255
+E-mail: cakbas82@ku.edu.tr
+
+PelinHopali: 3458756051
+
+Name: BurakGulce
+Number: 7433051735
+E-mail: bgulce17@ku.edu.tr
+
+Name: OkanTekalp
+Number: 9583151841
+E-mail: otekalp84@ku.edu.tr
+
+BerrakSipahioglu: 0062782107
+
+Name: AtahanGulce
+Number: 6017526292
+E-mail: agulce52@ku.edu.tr
+
+FuatcemBasar: 9364695741
+
+NecatibarisAlioglu: 5850061528
+
+BurakDemirci: 7166139112
+
+Name: MustafaumutTatlidede
+Number: 2073069744
+E-mail: mtatlidede79@ku.edu.tr
+
+Name: MehmetumutOrhan
+Number: 6076177898
+E-mail: morhan35@ku.edu.tr
+
+GultekinGizer: 6478622349
+
+Name: FuatcemErsu
+Number: 1252173668
+E-mail: fersu87@ku.edu.tr
+
+PelinPerk: 9200832176
+
+Name: HazalSasmaz
+Number: 0006884529
+
+Name: EsinOzsuer
+Number: 5666857717
+E-mail: eozsuer37@ku.edu.tr
+
+6772899124: OzgurGokcek
+
+OsmanKonrat: 0271152481
+
+FurkanArslanturk: 5361500483
+
+KadirGuler: 2998396843
+
+Name: AhmedKaygusuz
+Number: 5142103722
+E-mail: akaygusuz54@ku.edu.tr
+
+Name: OzgurDoganay
+Number: 0627889835
+
+Name: FurkanArslanturk
+Number: 5361500483
+
+Name: TanilOzdemir
+Number: 0177230784
+
+8654250085: EgeEkmekci
+
+BerkayAvci: 7982865161
+
+HarunOzsuer: 4142217706
+
+Name: AliLuleci
+Number: 2835830701
+Address: 8386 John Forges Suite 361 Porterberg, NH 54690 
+E-mail: aluleci49@ku.edu.tr
+
+Name: AycaKaygusuz
+Number: 0350366063
+Address: 930 Christine Gateway Apt. 504 Justinborough, HI 37412-2417 
+E-mail: akaygusuz43@ku.edu.tr
+
+HarunOz: 0893581275
+
+IsmeterdemGursoy: 3915376468
+
+Name: MelikeToygar
+Number: 5235990342
+E-mail: mtoygar70@ku.edu.tr
+
+2306854509: BugraOnes
+
+Name: BaranberkayKorkmaz
+Number: 8405505003
+
+1830217900: ArunekinOzdemir
+
+MelihAltintop: 2876244061
+
+Name: OkanOkatan
+Number: 9365006611
+
+5077916993: BerkayCakir
+
+Name: DorukBalim
+Number: 1178730924
+
+1356336942: KaanYavuz
+
+PelinPerk: 9200832176
+
+Name: EgemelisYakal
+Number: 5504437174
+Address: 73834 Brooks Path Suite 661 West Bradley, WA 88162 
+E-mail: eyakal38@ku.edu.tr
+
+Name: CemAkbas
+Number: 9510772255
+E-mail: cakbas55@ku.edu.tr
+
+UmutKorkmaz: 0823927965
+
+4904017381: MelikeKutludag
+
+Cannot find the contact with email eozsuer51@ku.edu.tr
+3794116151: OmerhanKaygusuz
+
+Name: MerveIslakoglu
+Number: 5505094304
+E-mail: mislakoglu35@ku.edu.tr
+
+DuygusezenAkgul: 3751454156
+
+Name: KaanYavuz
+Number: 1356336942
+E-mail: kyavuz55@ku.edu.tr
+
+Name: MuhammedtalhaAlioglu
+Number: 1447708965
+
+Name: OkanMasry
+Number: 8523976935
+E-mail: omasry62@ku.edu.tr
+
+OzgurDoganay: 0627889835
+
+EgeTiryakioglu: 1353996915
+
+KaanTekalp: 6972257222
+
+Name: NecatibarisCakir
+Number: 2975667025
+
+Name: TanilBulgu
+Number: 8617856085
+
+MuhammedtalhaOz: 6588545370
+
+Name: SitareDurak
+Number: 9915740538
+
+Name: OzgurOkatan
+Number: 5123438385
+
+4347963007: MehmettahaAkgul
+
+Name: RabiasimalMenguaslan
+Number: 8403443074
+
+BurakcemOzkan: 3223657314
+
+6076177898: MehmetumutOrhan
+
+BurakGulce: 7433051735
+
+Name: AliArslan
+Number: 1029930211
+E-mail: aarslan96@ku.edu.tr
+
+Name: ArjinrenasYavuz
+Number: 8145763571
+
+Name: EgeonatAydin
+Number: 5993772136
+E-mail: eaydin90@ku.edu.tr
+
+5093932628: MedihameltemYilmaz
+
+Name: ElhanAslan
+Number: 4469749214
+
+Name: AycaKaygusuz
+Number: 0350366063
+Address: 930 Christine Gateway Apt. 504 Justinborough, HI 37412-2417 
+E-mail: akaygusuz43@ku.edu.tr
+
+Name: PelinHopali
+Number: 3458756051
+
+UmaybengisuKarakas: 4102968254
+
+Name: FuatcemKavcioglu
+Number: 6682071293
+Address: 13532 Johnson Rapids Suite 350 West Josebury, CA 78681 
+E-mail: fkavcioglu42@ku.edu.tr
+
+Name: KemalbatuhanDemir
+Number: 5948626246
+
+ArjinrenasYavuz: 8145763571
+
+KadriKayandan: 9815816844
+
+Name: AliBalci
+Number: 3010725411
+Address: 924 Levy Forge South Laurie, GU 21743-3529 
+E-mail: abalci63@ku.edu.tr
+
+Name: IhsanBekci
+Number: 1994055740
+Address: Unit 8942 Box 5867 DPO AP 90932 
+E-mail: ibekci37@ku.edu.tr
+
+Name: MehmetumutSener
+Number: 2093942241
+Address: 63906 Phelps Cape Apt. 962 West Victoriaton, CO 46643-2638 
+E-mail: msener98@ku.edu.tr
+
+PelinHopali: 3458756051
+
+Name: HarunOz
+Number: 0893581275
+
+Name: MerveIslakoglu
+Number: 5505094304
+E-mail: mislakoglu35@ku.edu.tr
+
+Name: MehmetrifatKutludag
+Number: 2421363975
+
+Name: EgeGulce
+Number: 3789381260
+
+Name: OzgurDoganay
+Number: 0627889835
+E-mail: odoganay58@ku.edu.tr
+
+Name: AhmedKaygusuz
+Number: 5142103722
+E-mail: akaygusuz54@ku.edu.tr
+
+2099627977: AliLuleci
+
+Name: KadirErsu
+Number: 0077307256
+
+BarisKarakas: 8937647246
+
+MelikeGulce: 2581331684
+
+KadirErsu: 0077307256
+
+KemalbatuhanDemir: 5948626246
+
+BerkayAvci: 7982865161
+
+Name: BerkBarlas
+Number: 4075301108
+E-mail: bbarlas80@ku.edu.tr
+
+5706467139: ElburzOnes
+
+BurakcemBaskaya: 0681567986
+
+OzgurKayandan: 6177857538
+
+3223657314: BurakcemOzkan
+
+Name: BerkBoluk
+Number: 3638486753
+E-mail: bboluk22@ku.edu.tr
+
+Name: EgeAltinbas
+Number: 6957185272
+Address: 499 Gomez Mill Apt. 784 East Kathleentown, AZ 64401-0637 
+E-mail: ealtinbas36@ku.edu.tr
+
+OzgurKayandan: 6177857538
+
+Name: AliArslan
+Number: 1029930211
+E-mail: aarslan96@ku.edu.tr
+
+8523976935: OkanMasry
+
+2093942241: MehmetumutSener
+
+1879849806: GokalpBoluk
+
+Name: BerkBarlas
+Number: 4075301108
+E-mail: bbarlas78@ku.edu.tr
+
+Name: EngindenizSalel
+Number: 3233177658
+Address: 18406 Cooke Gardens Suite 505 Turnermouth, ND 65857 
+E-mail: esalel35@ku.edu.tr
+
+0893581275: HarunOz
+
+Name: OzgurDoganay
+Number: 0627889835
+E-mail: odoganay58@ku.edu.tr
+
+ElhanGuncer: 3370199695
+
+IbrahimethemGokcek: 3231772079
+
+Name: SitareAkbas
+Number: 1434101678
+
+AlihanAvci: 6509236438
+
+Number of contacts after the queries: 109
+AhmedKaygusuz 5142103722
+AhmetDeveci 2283692977
+AliArslan 1029930211
+AlihanAvci 6509236438
+AlpadnanAslan 2217466615
+AlpadnanOzyazici 3665765533
+AlpadnanYilmaz 8295440898
+AlperDurak 2357074948
+ArjinrenasYavuz 8145763571
+ArunekinKarakas 3582285092
+AtakanCona 3907711371
+AydinberkGuncer 5939823253
+BahadirhanCubuk 3609825022
+BahadirhanKocas 0510437204
+BahadirhanOzyazici 5864250884
+BaranberkayArslanturk 6879605369
+BaranberkayKorkmaz 8405505003
+BarisKarakas 8937647246
+BerkAkogul 9399822265
+BerkBarlas 4075301108
+BerkBoluk 3638486753
+BerkayAvci 7982865161
+BerkayCakir 5077916993
+BerrakKarakas 6959138012
+BerrakSipahioglu 0062782107
+BulutYucetin 3939814603
+BurakGulce 7433051735
+BurakcemBaskaya 0681567986
+BurakcemOzkan 3223657314
+CanberkSener 0496432530
+CanerBarlas 7711704629
+CansuBudak 9253821779
+CansuOzsuer 7843257069
+CemAkbas 9510772255
+EgeAltinbas 6957185272
+EgeDemir 5822706560
+EgeEkmekci 8654250085
+EgeYazici 1437449966
+EgeonatAydin 5993772136
+EgeonatBekci 0324169800
+EgeonatCakir 8213268984
+ElburzKorkmaz 8937489555
+ElburzOnes 5706467139
+ElhanGizer 7839005907
+ElhanGuncer 3370199695
+EmirSasmaz 5887657822
+EnesFiliz 8133019177
+EnesOzakar 7043462115
+EnesfarukCubuk 9133512448
+EngindenizSalel 3233177658
+FuatcemKavcioglu 6682071293
+FurkanBarlas 5344713592
+FurkanOzakar 1525097770
+GokalpBoluk 1879849806
+GultekinBulgu 8408306624
+GultekinGizer 6478622349
+GultekinYucetin 4226810724
+HakkitahaSalel 6834633994
+HarunOz 0893581275
+HaticeiremGunay 3583867910
+HazalGursoy 0916736126
+HazalSasmaz 0006884529
+IbrahimethemGokcek 3231772079
+IhsanBekci 1994055740
+IsmeterdemGursoy 3915376468
+KaanGuncer 6964370845
+KaanTekalp 6972257222
+KadirErsu 0077307256
+KadirSaygili 1079589486
+KadriArslan 0331130680
+KadriDincer 4546706893
+KadriKayandan 9815816844
+KazimBarlas 2622396404
+KazimUysal 8935509330
+KemalbatuhanBesiroglu 0074557822
+KemalbatuhanDemir 5948626246
+KemalbatuhanYavuz 6334371282
+MahmutkarahanOkatan 3293796314
+MehmetrifatKutludag 2421363975
+MehmetumutSener 2093942241
+MelikeBekci 6387080081
+MelikeCakir 3186714033
+MelikeKutludag 4904017381
+MelikeMenguaslan 6589810117
+MerveIslakoglu 5505094304
+MuhammedtalhaAlioglu 1447708965
+NecatibarisKarakas 7467006281
+OkanMasry 8523976935
+OkanOkatan 9365006611
+OkanTekalp 9583151841
+OnurKucukpehlivan 8331354524
+OrcunYazici 4104464268
+OsmanKonrat 0271152481
+OzgurDoganay 0627889835
+OzgurKayandan 6177857538
+OzgurOkatan 5123438385
+PelinHopali 3458756051
+PelinPerk 9200832176
+RabiasimalAltintop 8009554629
+SerkanGulce 1450025561
+SitareAkbas 1434101678
+TanilMasry 3546471481
+TanilOzdemir 0177230784
+TayisAkgul 3157922338
+TayisToygar 5466699259
+TumayHopali 5394331991
+UmaybengisuIslakoglu 6902097539
+UmutPerk 3658639571
+YunusYardimci 2770827849

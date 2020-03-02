@@ -1,0 +1,11 @@
+Side Buy 32
+TuanBerk Change Sell 42
+YunusEmre Sell 45
+IlkerKadir Sell 13
+ElburzDavid Buy 30
+Yigit Change Sell 40
+AhmetErdem Sell 22
+Oguzhan Sell 43
+AhmetErdem Remove Sell 22
+Berke Sell 47
+OzgurTaylan Change Sell 28

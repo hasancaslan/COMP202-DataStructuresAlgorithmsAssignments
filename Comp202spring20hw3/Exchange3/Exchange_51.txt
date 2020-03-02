@@ -1,0 +1,14 @@
+OzgurTaylan Sell 11
+CanTaylan Change Sell 21
+OzgurTaylan Change Sell 43
+Burak Sell 41
+Eda Change Sell 22
+Aytunc Sell 32
+Cisem Buy 27
+AhmetBurak Remove Sell 42
+OzgurTaylan Change Sell 15
+Alpay Buy 46
+AhmetBurak Sell 24
+EnginDeniz Buy 11
+MustafaMert Buy 43
+CansuDamla Remove Sell 40

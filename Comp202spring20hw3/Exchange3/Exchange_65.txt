@@ -1,0 +1,9 @@
+MehmetSamed Sell 20
+Mustafa Remove Sell 33
+Aykut Remove Sell 36
+Ozge Change Sell 46
+MustafaMert Buy 21
+Mustafa Sell 40
+Huseyin Sell 10
+Oguzhan Remove Sell 39
+Alpay Buy 27

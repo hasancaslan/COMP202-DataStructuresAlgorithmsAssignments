@@ -1,0 +1,12 @@
+Arda Change Sell 10
+MustafaBurak Buy 36
+EsatTunahan Sell 16
+EsatTunahan Change Sell 36
+Ekin Sell 17
+MustafaMert Buy 49
+Ceren Buy 48
+Atahan Change Sell 41
+Burak Sell 24
+Aykut Remove Sell 34
+Atahan Remove Sell 41
+Hamza Sell 34

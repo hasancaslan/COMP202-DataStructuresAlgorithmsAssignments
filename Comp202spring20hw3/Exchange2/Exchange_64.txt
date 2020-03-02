@@ -1,0 +1,6 @@
+MertCan Buy 40
+Arda Sell 31
+CanTaylan Change Sell 17
+Alper Remove Sell 53
+Zahit Sell 8
+EnginDeniz Buy 41

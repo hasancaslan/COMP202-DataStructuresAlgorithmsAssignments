@@ -1,0 +1,7 @@
+Cisem Buy 44
+Ali Sell 65
+AhmetBurak Remove Sell 31
+OzgurTaylan Sell 15
+Alpay Buy 89
+Can Change Sell 14
+IlkerKadir Change Sell 78

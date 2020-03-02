@@ -1,0 +1,12 @@
+CansuDamla Sell 39
+MehmetEmre Sell 25
+IlaydaEzgi Sell 23
+OzgurTaylan Sell 14
+Hamza Sell 13
+Ali Sell 29
+Ceren Buy 39
+Atahan Change Sell 21
+MehmetEmre Remove Sell 25
+AhmetMurat Sell 35
+IlaydaEzgi Change Sell 44
+Berke Change Sell 38

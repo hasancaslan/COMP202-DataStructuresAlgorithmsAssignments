@@ -1,0 +1,14 @@
+CansuDamla Sell 11
+Alper Sell 12
+Oguzhan Sell 22
+Oguzhan Remove Sell 22
+AhmetErdem Sell 26
+Arda Sell 39
+Cansin Buy 36
+TuanBerk Remove Sell 36
+Yigit Sell 27
+MehmetEmre Sell 45
+Alkin Buy 15
+Eda Remove Sell 48
+Aykut Change Sell 10
+Deniz Buy 30

@@ -1,0 +1,10 @@
+IbrahimDurul Buy 17
+MustafaMert Buy 50
+Ekin Change Sell 44
+AhmetErdem Sell 16
+Zahit Remove Sell 64
+Alper Change Sell 20
+Kivanc Sell 100
+Eda Sell 79
+Burak Change Sell 7
+Mert Sell 4

@@ -1,0 +1,10 @@
+EgeBerk Buy 25
+Aykut Sell 22
+OzgurTaylan Sell 11
+AhmetErdem Change Sell 49
+Mustafa Sell 33
+AhmetMurat Change Sell 16
+Aykut Change Sell 36
+TuanBerk Sell 12
+Mertkan Buy 18
+MehmetEmre Remove Sell 46

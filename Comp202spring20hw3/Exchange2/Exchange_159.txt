@@ -1,0 +1,11 @@
+IlaydaEzgi Sell 13
+MehmetCan Sell 34
+MustafaMert Change Buy 66
+Cansin Buy 60
+OzgurTaylan Change Sell 28
+MehmetEmre Remove Sell 90
+OsmanBugra Buy 99
+Dilara Sell 57
+Kivanc Change Sell 85
+TuanBerk Change Sell 20
+Selin Buy 37

@@ -1,0 +1,18 @@
+Asli Sell 26
+AhmetResat Sell 20
+BerkeLevent Buy 43
+Kivanc Sell 10
+EsatTunahan Sell 29
+Irem Buy 37
+EsatTunahan Remove Sell 29
+Murat Buy 31
+Eren Change Sell 21
+AlperTolga Buy 42
+IlaydaEzgi Sell 29
+Berrak Buy 33
+ElburzDavid Buy 30
+Nevzat Buy 35
+Gokberk Buy 48
+Hamza Sell 17
+CanTaylan Sell 13
+OzgurTaylan Change Sell 50

@@ -1,0 +1,12 @@
+Zahit Sell 36
+Ali Change Sell 3
+Hamza Sell 16
+IlkerKadir Remove Sell 40
+Sena Sell 30
+ElburzDavid Change Buy 56
+Kivanc Change Sell 32
+CansuDamla Remove Sell 72
+Tayis Sell 46
+Oguzhan Change Sell 45
+Cisem Buy 86
+Aykut Remove Sell 94

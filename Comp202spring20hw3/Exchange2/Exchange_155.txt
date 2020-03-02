@@ -1,0 +1,8 @@
+IbrahimEthem Sell 45
+ElburzDavid Buy 34
+Huseyin Change Sell 62
+CanTaylan Sell 75
+AhmetResat Remove Sell 92
+Eda Sell 77
+Zahit Change Sell 18
+Muhammet Remove Sell 50

@@ -1,0 +1,11 @@
+AlperTolga Buy 48
+Gokalp Buy 40
+IlaydaEzgi Sell 12
+Mustafa Remove Sell 40
+IsmetErdem Sell 44
+IsmetErdem Remove Sell 44
+Cansin Buy 17
+OzgurTaylan Sell 29
+MustafaMert Buy 18
+CansuDamla Change Sell 21
+KamileAsli Buy 31

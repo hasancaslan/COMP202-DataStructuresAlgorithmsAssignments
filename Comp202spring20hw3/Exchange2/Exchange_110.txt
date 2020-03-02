@@ -1,0 +1,11 @@
+Deniz Buy 48
+Mustafa Sell 63
+NaimBerk Buy 77
+IbrahimDurul Buy 20
+BerrinNaz Sell 37
+Alp Buy 60
+Cem Buy 74
+EsatTunahan Sell 56
+RizaArda Buy 83
+Dilara Change Sell 65
+Kivanc Change Sell 59

@@ -1,0 +1,3 @@
+Hakan Sell 15
+Emre Buy 7
+Mert Change Sell 10

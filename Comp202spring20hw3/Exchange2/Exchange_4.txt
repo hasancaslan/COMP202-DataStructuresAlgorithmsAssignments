@@ -1,0 +1,5 @@
+Hazal Buy 49
+Murat Buy 7
+Ozge Sell 80
+Sena Remove Sell 35
+Aykut Change Sell 27

@@ -1,0 +1,6 @@
+Selin Buy 27
+Ozge Sell 19
+Burak Change Sell 44
+Zahit Change Sell 50
+Baris Buy 28
+BerrinNaz Remove Sell 34

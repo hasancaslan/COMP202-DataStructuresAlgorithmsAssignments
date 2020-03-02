@@ -1,0 +1,16 @@
+Dilara Sell 13
+YoelBaris Sell 23
+EnginDeniz Buy 38
+IlkerKadir Sell 28
+Alkin Change Buy 17
+Cem Buy 24
+CansuDamla Change Sell 40
+TuanBerk Remove Sell 24
+Oguzhan Remove Sell 43
+Gokalp Buy 45
+EsatTunahan Change Sell 36
+Oguzhan Sell 44
+Atahan Sell 15
+Eda Change Sell 32
+AlperTolga Buy 46
+ElburzDavid Buy 35

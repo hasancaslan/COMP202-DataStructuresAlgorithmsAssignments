@@ -1,0 +1,14 @@
+CanTaylan Sell 20
+Ege Buy 24
+Ekin Sell 25
+Nevzat Buy 19
+Ceren Buy 25
+YoelBaris Sell 33
+Mert Change Sell 22
+TuanBerk Sell 31
+Zahit Sell 36
+Eda Change Sell 21
+IsmetErdem Sell 24
+AhmetResat Change Sell 11
+MehmetSamed Sell 14
+Ceren Change Buy 27

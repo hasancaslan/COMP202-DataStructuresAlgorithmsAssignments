@@ -1,0 +1,15 @@
+OsmanBugra Buy 44
+Mertkan Buy 22
+CansuDamla Sell 14
+AhmetTalha Buy 47
+CansuDamla Remove Sell 14
+UmurBurhan Change Buy 41
+MehmetSamed Remove Sell 43
+AhmetErdem Sell 15
+MertCan Buy 34
+YoelBaris Sell 50
+Ali Sell 14
+Atahan Sell 49
+IsmetErdem Sell 38
+Irmak Buy 17
+CanTaylan Remove Sell 29

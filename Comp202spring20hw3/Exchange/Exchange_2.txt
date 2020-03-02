@@ -1,0 +1,4 @@
+Sabri Buy 6
+Mert Sell 14
+Tugrul Remove Sell 10
+Mehmet Change Buy 9

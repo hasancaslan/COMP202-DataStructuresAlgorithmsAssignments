@@ -1,0 +1,5 @@
+KamileAsli Buy 70
+MehmetSamed Sell 36
+Mustafa Remove Sell 91
+Hamza Change Sell 30
+Cem Change Buy 83

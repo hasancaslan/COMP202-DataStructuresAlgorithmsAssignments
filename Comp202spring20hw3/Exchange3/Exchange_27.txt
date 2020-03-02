@@ -1,0 +1,15 @@
+MustafaMert Buy 35
+Berke Sell 45
+Baris Change Buy 50
+Nevzat Buy 42
+IsmetErdem Sell 17
+AhmetResat Sell 24
+MehmetSamed Remove Sell 35
+MehmetSamed Sell 22
+Kivanc Sell 21
+Alper Sell 13
+Cisem Buy 43
+Alp Buy 23
+CenkBurak Buy 11
+IlaydaEzgi Sell 12
+Arda Sell 29

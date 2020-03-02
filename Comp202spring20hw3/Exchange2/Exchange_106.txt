@@ -1,0 +1,10 @@
+EnginDeniz Buy 4
+Selin Buy 86
+KadriMert Buy 99
+IbrahimDurul Buy 80
+Huseyin Change Sell 63
+CanTaylan Change Sell 74
+YunusEmre Sell 85
+Murat Buy 40
+IlkerKadir Change Sell 23
+Zahit Change Sell 30

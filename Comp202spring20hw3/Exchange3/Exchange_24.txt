@@ -1,0 +1,13 @@
+MustafaBurak Buy 20
+Dilara Sell 42
+Burak Sell 40
+Huseyin Sell 16
+Berke Remove Sell 36
+Sena Sell 28
+Zahit Sell 50
+Irem Buy 47
+YoelBaris Change Sell 21
+MustafaAyberk Buy 37
+AhmetResat Sell 12
+MustafaBurak Change Buy 45
+AhmetBurak Sell 22

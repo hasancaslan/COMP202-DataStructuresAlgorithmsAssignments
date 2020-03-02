@@ -1,0 +1,15 @@
+YoelBaris Sell 28
+CenkBurak Buy 55
+Berkay Buy 98
+Irem Buy 75
+MehmetEmre Sell 53
+Ali Change Sell 25
+Aykut Sell 82
+Baris Buy 41
+Sena Sell 55
+AhmetErdem Remove Sell 65
+Ceren Buy 16
+Hamza Sell 54
+MehmetSamed Sell 12
+Aytunc Sell 86
+Asli Sell 30

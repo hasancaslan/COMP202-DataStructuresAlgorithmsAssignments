@@ -1,0 +1,6 @@
+MustafaAyberk Buy 15
+Eren Sell 30
+Yigit Sell 23
+Burak Change Sell 16
+YunusEmre Sell 19
+Gokberk Buy 20

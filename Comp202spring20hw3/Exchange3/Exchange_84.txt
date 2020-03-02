@@ -1,0 +1,14 @@
+MertCan Buy 46
+TuanBerk Sell 36
+Ekin Sell 37
+Burak Remove Sell 29
+ElburzDavid Buy 40
+Kivanc Sell 42
+Deniz Buy 22
+Arda Sell 41
+Oguzhan Change Sell 24
+BerkeLevent Buy 49
+Ali Sell 10
+ElburzDavid Change Buy 25
+EsatTunahan Sell 44
+CanTaylan Change Sell 12

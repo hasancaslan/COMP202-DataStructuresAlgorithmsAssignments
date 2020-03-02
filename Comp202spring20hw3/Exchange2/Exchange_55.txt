@@ -1,0 +1,13 @@
+YunusEmre Remove Sell 46
+EsatTunahan Sell 40
+Berke Sell 9
+Muhammet Sell 56
+MustafaBurak Buy 87
+MehmetEmre Change Sell 2
+Asli Sell 54
+Mustafa Change Sell 87
+AhmetTalha Buy 59
+Cisem Change Buy 70
+Eda Change Sell 55
+AhmetBurak Sell 31
+AhmetErdem Sell 61

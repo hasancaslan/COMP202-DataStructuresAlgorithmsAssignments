@@ -1,0 +1,14 @@
+KamileAsli Buy 25
+OzgurTaylan Sell 12
+MustafaMert Change Buy 48
+RizaArda Buy 29
+EgeBerk Buy 43
+Irmak Buy 26
+Oguzhan Change Sell 10
+Zahit Sell 18
+Alkin Buy 36
+Mert Sell 24
+KamileAsli Change Buy 41
+Sena Sell 32
+AhmetErdem Sell 13
+AhmetMurat Change Sell 27

@@ -1,0 +1,16 @@
+Oguzhan Sell 6
+Dilara Sell 16
+Hamza Sell 98
+Asli Change Sell 5
+Alpay Buy 14
+Mert Change Sell 15
+Ali Sell 62
+YunusEmre Sell 28
+Tayis Change Sell 44
+Kivanc Sell 51
+ElburzDavid Buy 86
+Berke Remove Sell 94
+IlkerKadir Sell 42
+Cem Change Buy 12
+Mustafa Sell 91
+Zahit Change Sell 24

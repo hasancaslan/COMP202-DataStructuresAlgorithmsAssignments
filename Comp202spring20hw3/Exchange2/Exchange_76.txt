@@ -1,0 +1,14 @@
+IbrahimDurul Buy 54
+Mustafa Sell 91
+Yigit Sell 42
+EsatTunahan Sell 64
+Ozge Remove Sell 87
+Huseyin Change Sell 28
+MustafaBurak Buy 38
+UmurBurhan Change Buy 58
+Dilara Change Sell 12
+Muhammet Sell 31
+Alper Sell 32
+Hazal Change Buy 61
+Ali Sell 36
+TuanBerk Sell 35
