@@ -265,18 +265,31 @@ public class AutograderMain {
         return grade;
       }
       
+     
       if(bst.isInternal(btn))
         grade += 0.5/smallKeys.length;
       else {
-        Autograder.Log("Binary search tree isInternal method did not return true for an internal node. Must fix this to continue grading.");
-        return grade;
+        if(btn.getKey() == 0 || btn.getKey() == 4 || btn.getKey() == 7 || btn.getKey() == 9) {
+          if(bst.isExternal(btn))
+            grade += 0.5/smallKeys.length;
+        }
+        else {
+          Autograder.Log("Binary search tree isInternal method did not return true for an internal node. Must fix this to continue grading.");
+          return grade;
+        }
       }
       
       if(!bst.isExternal(btn))
         grade += 0.5/smallKeys.length;
       else {
-        Autograder.Log("Binary search tree isExternal method did not return false for an internal node. Must fix this to continue grading.");
-        return grade;
+        if(btn.getKey() == 0 || btn.getKey() == 4 || btn.getKey() == 7 || btn.getKey() == 9) {
+          if(!bst.isInternal(btn))
+            grade += 0.5/smallKeys.length;
+        }
+        else {
+          Autograder.Log("Binary search tree isExternal method did not return false for an internal node. Must fix this to continue grading.");
+          return grade;
+        }
       }
       
       if(i != 0) {
@@ -1159,6 +1172,8 @@ public class AutograderMain {
       Autograder.Log("Unexpected exception while testing phonebook functionality");
       e.printStackTrace();
     }
+    
+    
     
     Autograder.printLog();
     System.out.printf("Grade:  %.2f /100" + System.lineSeparator(),grade);

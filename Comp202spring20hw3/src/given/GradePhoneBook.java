@@ -15,7 +15,7 @@ public class GradePhoneBook {
     PhoneBook pb = new PhoneBook();
     PrintStream previous = System.out; 
 
-    File output = new File("student_output.txt");
+    File output = new File("student_phonebook_output.txt");
     output.createNewFile();
     PrintStream fileOut = new PrintStream(output);
     System.setOut(fileOut);
