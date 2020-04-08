@@ -134,7 +134,7 @@ public class ArrayBasedHeap<Key, Value> implements iAdaptablePriorityQueue<Key, 
             Entry<Key, Value> node = nodes.get(i);
             Key key = node.getKey();
             Key oldKey = key;
-                    Value value = node.getValue();
+            Value value = node.getValue();
             if (value.equals(v)) {
                 node.setKey(k);
                 if (i == 0) {
