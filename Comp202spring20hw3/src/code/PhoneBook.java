@@ -21,8 +21,8 @@ import java.util.List;
  */
 public class PhoneBook {
 
-    BinarySearchTree<String, ContactInfo> contactName;
-    BinarySearchTree<String, ContactInfo> contactNumber;
+    private BinarySearchTree<String, ContactInfo> contactName;
+    private BinarySearchTree<String, ContactInfo> contactNumber;
 
     public PhoneBook() {
         contactName = new BinarySearchTree<>();
@@ -145,13 +145,13 @@ public class PhoneBook {
     // Returns a list containing the contacts in sorted order by name
     public List<ContactInfo> getContacts() {
         List<ContactInfo> contacts = new ArrayList<>();
-        for (BinaryTreeNode<String, ContactInfo> node : contactName.getNodesInOrder())
-            contacts.add(node.getValue());
+        contactName.getNodesInOrder().forEach((node) -> contacts.add(node.getValue()));
         return contacts;
     }
 
     // Prints the contacts in sorted order by name
     public void printContacts() {
-        System.out.println(getContacts());
+        List<ContactInfo> contacts = getContacts();
+        contacts.forEach((contact) -> System.out.printf("%s %s\n", contact.getName(), contact.getNumber()));
     }
 }
