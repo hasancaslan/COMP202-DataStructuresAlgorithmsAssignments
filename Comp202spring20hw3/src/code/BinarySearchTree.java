@@ -264,11 +264,11 @@ public class BinarySearchTree<Key, Value> implements iBinarySearchTree<Key, Valu
         if (isExternal(node))
             return node;
 
-        int c = comparator.compare(k, node.getKey());
+        int result = comparator.compare(k, node.getKey());
 
-        if (c < 0)
+        if (result < 0)
             return treeSearch(k, node.getLeft());
-        else if (c == 0)
+        else if (result == 0)
             return node;
         else
             return treeSearch(k, node.getRight());
